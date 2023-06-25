@@ -1,0 +1,71 @@
+{Scrap Scanner
+D;6
+B;1
+F;Handheld device, Device worn over ear and eye
+V;projected holograms:1, displays on a screen:1
+T;1 unit:0, 2 units:4, 3 units:6
+E;For 28 hours, this device provides data on non-visible aspects of numenera via @, granting an asset on all salvaging tasks and increasing salvage yield by ^.
+}
+
+{Repulsor
+D;6
+B;2
+F;Gauntlet, Pistol-like device, Handheld device, Ring
+V;
+T;70 pounds (32 kg):0, 140 pounds (64 kg):2, 210 pounds (96 kg):3, 280 pounds (128 kg):4, 350 pounds (160 kg):5, 420 pounds (192 kg):6, 490 pounds (224 kg):7, 560 pounds (256 kg):8
+E;Sends a creature or object weighing ^ or less hurtling away from the user up to a Short distance. If the target impacts something of sufficient mass to stop it (a wall, an equally-sized creature), the target stops moving and both it and the thing that stopped it take $ points of damage. If the target doesn't impact anything, it still takes 2 points of damage from skidding along the ground. A creature can avoid moving more than an Immediate distance with a difficulty $ Might defense roll, though it still takes 2 points of damage. Likewise, a creature or object too big to be moved still takes 2 points of damage.
+}
+
+{Temporal Glimmer
+D;6
+B;3
+F;Headband, Pill, Ingestible fluid, Injector
+V;
+T;round:0, 2 rounds:7
+E;Grants the user a fleeting glimpse into the future, allowing them to re-roll a single task they attempt within the next ^.
+}
+
+{Burster
+D;6
+B;3
+F;Ring, Subdermal implant, Glove, Short tube, Snubnosed pistol-like device
+V;flame:5, flechette-like fragments:5, caustic acid:3, intense cold:3, concentrated force:2, cell-disrupting radiation that only effects living things:2
+T;
+E;Fires a burst of @ at a target within Immediate range, dealing $ points of damage. Even if the attack misses, the burst is wide enough to still deal 2 points of damage.
+}
+
+{Refraction Shroud
+D;6
+B;1
+F;Jar of ointment, Piece of metallic cloth, Spray canister
+V;
+T;
+E;Covers a human-sized creature or object and refracts light around it for $0 minutes, making it almost completely invisible. However, the cypher produces an offensive smell while active that can be pinpointed from an Immediate distance away. Creatures with better senses of smell are able to sense it from even further away.
+}
+
+{Rejuvenator
+D;6
+B;2
+F;Pill, Ingestible fluid, Injector, Bracer with built-in injector,
+V;Might:2, Speed:1, Intellect:1
+T;
+E;Restores $ points to the user's @ pool.
+}
+
+{Two-Step Rejuvenator
+D;6
+B;0
+F;Pill, Ingestible fluid, Injector, Bracer with built-in injector,
+V;Might:2, Speed:1, Intellect:1
+T;
+E;Restores $ points to the user's @ pool on the round it is used, and $ more points on the round afterward.
+}
+
+{Slow Rejuvenator
+D;6
+B;1
+F;Pill, Ingestible fluid, Injector, Bracer with built-in injector,
+V;Might:2, Speed:1, Intellect:1
+T;
+E;Restores 2 points to the user's @ pool every minute for $ minutes.
+}

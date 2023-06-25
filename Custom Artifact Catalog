@@ -1,0 +1,340 @@
+{Displacement Striker
+D;6
+B;2
+F;Metal cane inlaid with circuitry, Metal staff inlaid with circuitry
+V;
+T;
+DT;1
+DD;20
+E;This artifact causes spacial displacements whenever it is struck. By striking it against the ground or another solid surface, a user can teleport themselves and everything they are carrying to a point within Short range. If they focus their thoughts on a specific point (not necessarily one they can see), the user goes there; otherwise, the point is random. A user can also strike other creatures with it, either tapping a willing creature or attacking an unwilling one (in which case the artifact acts as a light weapon). In this case, the target is teleported to a random point within Short range, and neither they nor the user can do anything to control where they wind up. The cane will never teleport a creature into open air (i.e. where they could fall) or directly into a hazard such as poison gas or an electrical field. However, it can teleport creatures to the other side of a wall or to a room two floors up.
+}
+
+{Lifespender
+D;6
+B;4
+F;Amulet that adheres to the sternum
+V;
+T;
+DT;1
+DD;100
+E;This artifact repairs injury by accelerating the wearer's metabolism, healing life-threatening injuries in seconds while aging the wearer years in the same time span. Whenever the wearer moves a step down the damage track, the device activates, moving them back up the track and making them 1 year older. If they moved down the damage track due to having a stat pool reduced to 0, that pool regains 1d10 + 5 points, and the user ages an additional year for every 3 points restored (rounding down). Once a user reaches a sufficiently old age, the amulet begins to interpret the effects of old age as injury, leading to a chain reaction that ages the user to dust. During each round of the chain reaction, each of the user's pools are permanently reduced by 1d10 until they remove the amulet as an action or die. The age at which this happens is different for every user, but for humans it typically equals [/r 70 + 1d10] + the user's level or tier.
+}
+
+{Disjunction Arrow
+D;6
+B;0
+F;Arrow with a cylindrical device instead of a point, Crossbow bolt with a cylindrical device instead of a point
+V;
+T;point:0, points:2
+DT;1
+DD;0
+E;The arrow deals 2 fewer points of damage than normal. Upon impact, it sends out a burst of energy that disables numenera devices of level $ or below within Immediate range. Cyphers and other single-use devices are destroyed, while all other numenera items are rendered inoperable for 1 hour. Mechanical creatures take $ ^ of damage from this burst, or 10 points if struck directly.
+}
+
+{Vibroblade
+D;6
+B;1
+F;Circuit-inlaid sword, Circuit-inlaid axe, Circuit-inlaid cleaver
+V;
+T;3:0, 5:6
+DT;1
+DD;20
+E;This artifact functions as a normal weapon. However, if the wielder uses an action to activate it, the weapon vibrates at sufficient frequency to disrupt molecular bonds for one round. During that round, the weapon ignores ^ points of armor.
+}
+
+{Phase Pocket
+D;6
+B;1
+F;Glove with a metal disk in the palm, Metal hoop about 1 foot (30 cm) in diameter
+V;
+T;
+DT;1
+DD;20
+E;When activated, this artifact connects to an out-of-phase pocket dimension of indeterminate size via an invisible portal 1 foot (30 cm) in diameter. The portal lasts for 1 round, long enough to pull something from or stash something in the pocket. The pocket can contain up to $ cubic feet, though it can't fit anything that can't fit through the portal. Cyphers placed in the pocket do not count against the user's cypher limit, but each cypher after the first has a cumulative 10% chance to go missing each day it remains there.
+}
+
+{Form-Shielding Cloak
+D;6
+B;4
+F;Very thin sheet of light pliable metal formed into a crude cloak
+V;
+T;ten minutes:0, 1 hour:9
+DT;1
+DD;100
+E;When activated, the device shields the wearer from all nonconventional senses (e.g. gravitational, sonar/radar/lidar, bioelectric, infrared) for ^, making them invisible to creatures or items that rely on those senses.
+}
+
+{Beam Thrower
+D;6
+B;3
+F;Small handheld device with a few simple controls
+V;concentrated heat:2, concentrated light:2, cell-disrupting radiation that only effects living things:1, force:2, magnetic energy:1, energy that disrupts molecular bonds:1, concentrated cold:2
+T;
+DT;1
+DD;10
+E;This device emits a Short-range beam of @ that deals $ points of damage. This device is a rapid-fire weapon and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Battleframe
+D;6
+B;4
+F;Exoskeletal suit of armor
+V;
+T;3:0, 5:9
+DT;1
+DD;100
+E;This armor is far hardier yet somewhat lighter than Ninth World smithing techniques could ever manage with steel. It is medium armor but grants an additional +1 Armor. The suit also provides +$ Armor against fall damage and has internal motors that enhance the wearer's movements, granting them +1 to their Might edge and +^ to their Might pool. Each attack that deals 2 or more damage through the armor counts as an activation, though depletion only disables the life support system.
+}
+
+{Kindling Tube
+D;6
+B;0
+F;Synth tube, Metal and synth box with a tube on one side
+V;
+T;1 cubic foot:0, 2 cubic feet:5
+DT;1
+DD;20
+E;The device produces combustible paste that easily catches light. It cannot be used as an explosive and burns no hotter than a campfire, but it doesn't require oxygen to burn and can be ignited even in heavy winds or damp environs. The device can create no more than ^ per day, and the paste loses its combustive properties after 28 hours.
+}
+
+{Hanger Belt
+D;6
+B;1
+F;Odd-fitting metallic mesh belt that has a metal box attachment with dial controls
+V;
+T;20 feet (6 m) per round. The wearer can also descend at a rate of 5 feet (1.5 m):0, 40 feet (12 m) per round. The wearer can also descend at a rate of 10 feet (3 m):6
+DT;1
+DD;20
+E;Upon activation, the wearer becomes vertically fixed in place, preventing them from falling or rising. The wearer can move of their own power as if in zero gravity (but only horizontally), or they can use the controls to move ^ per round without deactivating the belt. The belt works for ten minutes per use, though the user can re-activate it before that time to avoid falling.
+}
+
+{Imaging Headset
+D;6
+B;0
+F;Headset with a few dials and buttons that fits over the user's forehead and ears
+V;
+T;
+DT;1
+DD;100
+E;This device captures a perfect image of what the user's eyes are seeing. It can store thousands of images, and any stored image can be displayed holographically in front of the user. When the device is depleted, all stored images are lost.
+}
+
+{Listener
+D;6
+B;0
+F;Small synth handheld device with a few controls
+V;
+T;
+DT;1
+DD;100
+E;This device captures voices and other sounds for up to 1 hour per activation. It can store thousands of hours of audio, and any captured sounds can be replayed via the controls. When the device is depleted, all stored audio is lost.
+}
+
+{Distortion Shield
+D;6
+B;2
+F;Wristband with a small metal device attached, Bracer with a small metal device attached, Armband with a small metal device attached
+V;
+T;eased:0, eased by 2 steps:7
+DT;1
+DD;20
+E;When harmful energies such as fire, electricity, radiation, or molecular-disruption fields come within 4 inches (10 cm) of the wearer's body, the artifact momentarily distorts the laws of physics around the wearer to protect them. The wearer's defense tasks against such attacks are ^. If the energies still affect the wearer, the field adds 1 Armor against any damage they may cause. The field has no effect against physical or chemical projectiles.
+}
+
+{Warp Shot
+D;6
+B;3
+F;Small metal device affixable to a ranged weapon
+V;
+T;eased:0, eased by 2 steps:9
+DT;1
+DD;20
+E;When activated, the affixed weapon's next attack is put out of phase until it reaches its target, preventing it from needing to cross any intervening space. This allows the attack to hit targets on the other side of walls, though the attacker still suffers penalties if they cannot see their target. However, since the defender cannot see the attack in motion, the attack is ^. An out-of-phase projectile can still be stopped by a force field, and it typically has no additional effect against out-of-phase creatures.
+}
+
+{Suncutter
+D;6
+B;2
+F;Bladeless synth hilt, Wooden haft with a bladeless synth head
+V;
+T;
+DT;1
+DD;20
+E;Produces a 30 inch (75 cm) long plane of brilliant semisolid energy that acts like a blade. When used as a weapon, it inflicts $ damage, and it lasts for ten minutes per activation. The blade ignores armor of level $ or below.
+}
+
+{Half-Phase Weapon
+D;6
+B;2
+F;Straight sword with an equally long haft that bears several controls, Square axe with controls along its haft, Spherical mace with controls along its haft
+V;
+T;
+DT;1
+DD;20
+E;When activated, the weapon's business end becomes partially out of phase. This allows it to pass through solid matter, though not without harming the matter it passes through. While partly out-of-phase, it inflicts $ points of damage and ignores physical armor (but not force fields and the like). It also grants the user an asset to attacks and treats partially-out-of-phase creatures (such as an abykos) as fully physical. Once activated, the partial phase effect is active for one minute.
+}
+
+{Explosive Needler
+D;6
+B;1
+F;Small handheld device with a tiny tube
+V;
+T;Long range:0, Very Long Range:5
+DT;1
+DD;20
+E;This device projects a needle with an explosive core at a target within ^. A target hit by a needle suffers no immediate effects, but the needle explodes the next time they take an action within 1 minute. This deals $ points of damage and hinders any task associated with that action. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Lifevision Goggles
+D;6
+B;0
+F;Pair of synth goggles with green protruding lenses
+V;
+T;Short range:0, Long Range:5
+DT;0
+DD;10
+E;These goggles allow the wearer to see the bioelectric fields of most living beings out to ^. The fields appear as glowing auras that can be seen through pitch darkness, mist/smoke, and even most walls. However, they cannot be seen through more than an inch of metal, and force fields obscure them entirely.
+}
+
+{Cartographer Headband
+D;6
+B;2
+F;Metal and synth headband with several controls
+V;
+T;
+DT;1
+DD;20
+E;This headband records the terrain (e.g. walls, floors, immobile objects) the user passes through in a Short radius. When activated, it displays that data as a projected 3-dimensional holographic map that represents an area no more than a Very Long distance across.
+}
+
+{Canary Band
+D;0
+B;1
+F;Bright yellow synth wristband, Bright yellow synth ring
+V;
+T;
+DT;0
+DD;20
+E;This object vibrates when in immediate range of dangerous radiation or poisonous gas.
+}
+
+{Melt Wand
+D;6
+B;3
+F;Broad 8-inch (20 cm) metal rod with a single button
+V;
+T;
+DT;1
+DD;10
+E;This weapon realigns the molecular structure of a living target, in effect liquefying its flesh. It works at Long range but has no visible manifestation (no ray or projectile). The device inflicts $ points of damage and hinders the target's actions for 1 round. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Hot Manacles
+D;6
+B;1
+F;Lightweight pair of metal manacles
+V;
+T;
+DT;1
+DD;20
+E;Not only are these restraints binding, but they also glow red hot and inflict $ points of damage whenever the wearer attempts to break free. Once active, the manacles operate for 28 hours, though they do not release a target after that time.
+}
+
+{Psi Blaster
+D;6
+B;2
+F;Headset with an attached cylinder that runs along the right side of the wearer's head
+V;
+T;
+DT;1
+DD;10
+E;This device psychically assaults the mind of a living creature within Long range, dealing $ points of Intellect damage. The user doesn't necessarily need line of sight to the target, but they need to be familiar the target's identity and appearance.
+}
+
+{Shardthrower
+D;6
+B;2
+F;Long device with a metal tube
+V;
+T;Short:0, Long:7
+DT;2
+DD;100
+E;With a quiet sound like a puff of air, this device fires a crystalline shard up to ^ range. The shard inflicts $ points of damage and evaporates shortly after impact. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Stun Rod
+D;6
+B;0
+F;Light metal rod with several rings around one end
+V;
+T;
+DT;1
+DD;20
+E;This rod can be used as a normal light melee weapon even when depleted. The user can activate it on a hit to shock the target and make them lose their next action.
+}
+
+{Death Hose
+D;6
+B;2
+F;Large heavy tube with a bell-shaped end and a number of controls
+V;flame:8, supercooled fluid:6, corrosive sludge:6, crystalline fragments:8
+T;1:0, 2:4, 3:5, 4:6, 5:7, 6:8
+DT;1
+DD;6
+E;This massive device can barely be held or carried by a single person. When activated, it sprays a 50-foot (15 m) wide cone of @ out to Long range. Any creature struck by the spray takes $ points of damage, and objects of level $ or below move one step down the damage track. Objects of level ^ or below are moved two steps down the damage track, typically breaking or outright destroying them.
+}
+
+{Contingency Module
+D;6
+B;0
+F;Synth and metal device attached to a bracer
+V;
+T;
+DT;1
+DD;0
+E;A cypher no bigger than a typical handheld device can be added to this artifact to automate its use. First, the cypher is added to the device (an Intellect task with a difficulty of 4), and then the user keys in some specific condition based on their status or actions (e.g. when my Might pool falls below 8, when I spend Effort to increase a melee attack's damage). When the condition is met, the cypher is activated with the user set as the target. A cypher attached to this artifact still counts against the number of cyphers one can bear.
+}
+
+{Density Hammer
+D;6
+B;1
+F;Medium spherical hammer, Medium cube-shaped hammer
+V;
+T;1 additional point:0, 2 additional points:6
+DT;0
+DD;100
+E;This weapon is made from a strange material that changes density as it moves, allowing it to become far heavier right as a blow is struck. The weapon inflicts ^ of damage.
+}
+
+{Concave Probability Shifter
+D;6
+B;0
+F;Amulet, Bracelet, Talisman
+V;
+T;
+DT;1
+DD;20
+E;This device manipulates probability in its user's favor, "stealing" the luck of their foes to bring them good fortune. Anytime the user rolls a die while wearing the device, they instead roll two dice and take the better result. Each influenced roll counts as an activation, though a savvy user can avoid wasting the device's power by stowing it in a pocket or pack out of sight.
+}
+
+{Cyber-Limb
+D;6
+B;1
+F;Humanoid arm made of metal and synth, Humanoid leg made of metal and synth, Not-quite humanoid arm made of metal and synth, Not-quite humanoid leg made of metal and synth, Alien arm made of metal and synth, Alien leg made of metal and synth
+V;
+T;one specific task:0, two specific tasks:6
+DT;1
+DD;100
+E;This device acts as a prosthesis, automatically grafting onto an appropriate stump if pressed against it. The limb can be adjusted in length to match any remaining limbs, and the user suffers no penalties for its use. Additionally, the limb gives them an asset on ^, such as jumping for a leg or fine manipulation for an arm. Depletion is checked once per day.
+}
+
+{Liquid Tool
+D;6
+B;1
+F;Handle incorporating a metallic cylinder
+V;
+T;4:0, 6:8
+DT;1
+DD;20
+E;When activated, a watery liquid sprays from one end of the cylinder. An electric field shapes this smart fluid, causing it to take the form of a hammer, pair of pliers, prybar, wrench, lockpick, or any other hand tool the user desires. The fluid becomes immediately rigid and flawlessly formed, granting an asset on any task it is used in. The tool lasts for ^ hours or until deactivated.
+}

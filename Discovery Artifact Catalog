@@ -1,0 +1,825 @@
+{Amber Encasement
+D;6
+B;4
+F;Series of short rounded tubes and hoses about 12 inches (30 cm) long
+V;
+T;
+DT;4
+DD;6
+E;When activated, it solidifies the air in a 10-foot (3 m) cube of space, the center of which must be within short range of the device. The air is turned into an amber-like substance, and those trapped in it will likely suffocate or starve.
+}
+
+{Token of Safety
+D;6
+B;0
+F;Plain metallic disk on a chain, Plain metallic ring
+V;
+T;
+DT;0
+DD;6
+E;Once the artifact is keyed to a specific numenera weapon of level $ or below, the weapon cannot activate to harm the wearer.
+}
+
+{Analysing Lens
+D;6
+B;1
+F;Transparent synth shield, Transparent synth eyepiece, Transparent synth disk afixable to a ranged weapon
+V;
+T;
+DT;0
+DD;6
+E;The bearer can see through this artifact, and it has a display that analyzes the best place to strike a foe viewed through it. The bearer can use points from their Intellect Pool (rather than the more typical Might or Speed) to increase the damage of their attacks by 3 additional points per level of Effort.
+}
+
+{Armored Flesh
+D;6
+B;2
+F;Appears to be a collection of organic armored plates like a carapace or very large fish scales
+V;
+T;1:0, 2:3, 3:5, 4:7
+DT;0
+DD;6
+E;When placed on the wearer's flesh, the armor grafts on permanently. It provides +^ Armor but does not hinder movement or tire the wearer in any way (no Speed cost increase for applying Effort). On the contrary, the wearer's maximum Might Pool is permanently increased by 2. However, the benefits come at a cost. Fibrous tendrils extend into the wearer's flesh and eventually reach the spine and brain, inflicting damage in the form of 2 points of permanent maximum Intellect Pool reduction. This process takes one week, after which the wearer can feel through the armor as if it were their own skin. The lost points cannot be regained.
+}
+
+{Automated Cook
+D;6
+B;0
+F;Small metal and synth cube that has metallic arms and tools, Metal sphere 1 foot (30 cm) in diameter that splits open
+V;
+T;
+DT;1
+DD;100
+E;This automaton prepares food on command. It must be given raw materials (1 quart of water and organic compounds per meal), but with those it can prepare and serve a hot, nutritious, delicious meal (though not necessarily one the user is accustomed to).
+}
+
+{Battle Armor
+D;6
+B;4
+F;Full suit of synth and steel armor that covers the entirety of the wearer's body
+V;
+T;1:0, 2:9
+DT;1
+DD;100
+E;This armor is far hardier yet somewhat lighter than Ninth World smithing techniques could ever manage with steel. It is heavy armor but grants an additional +^ Armor in addition to the 3 Armor that heavy armor usually provides. Further, it is entirely sealed and has its own eternally renewed internal atmosphere, which completely protects against poison gases and allows the wearer to operate in an airless environment. The suit's Armor rating also applies to most forms of ambient damage (but not Intellect or Speed damage). Each attack that deals 2 or more damage through the armor counts as an activation, though depletion only disables the life support system.
+}
+
+{Battlesuit
+D;6
+B;4
+F;Full suit of synth and steel armor that covers the entirety of the wearer's body
+V;
+T;5:0, 7:9
+DT;1
+DD;100
+E;This armor is far hardier yet somewhat lighter than Ninth World smithing techniques could ever manage with steel. It is heavy armor but grants an additional +1 Armor in addition to the 3 Armor that heavy armor usually provides. Further, it is entirely sealed and has its own eternally renewed internal atmosphere, which completely protects against poison gases and allows the wearer to operate in an airless environment. The suit's Armor rating also applies to most forms of ambient damage (but not Intellect or Speed damage). The suit also has internal motors that enhance the wearer's movements, granting them +1 to their Might edge and +^ to their Might pool. Each attack that deals 2 or more damage through the armor counts as an activation, though depletion only disables the life support and motion enhancement systems.
+}
+
+{Bounding Boots
+D;6
+B;1
+F;Ninth World-made leather boots with small metal and synth devices worked into the sides, Thick metal anklets lined with glowing elements
+V;
+T;providing an asset for jumping and running tasks:0, easing jumping and running tasks by two steps:6
+DT;0
+DD;6
+E;This pair of artifacts negate gravity just enough to make running and jumping easier, ^.
+}
+
+{Brain Bud
+D;6
+B;0
+F;Organic pod almost like a small hemispherical bit of fruit, Hemispherical metal pod with small teeth on its flat side
+V;
+T;5:0, 7:6
+DT;0
+DD;6
+E;The pod grafts onto any living host (must be near the brain) and injects complex chemicals that greatly improve brain activity, increasing the host's maximum Intellect Pool by ^. After grafting, the host's skin grows over and covers it.
+}
+
+{Carryall
+D;6
+B;0
+F;Metallic chest with wheels on either side, Dodecagonal synth chest that levitates 3 feet off the ground
+V;
+T;10 miles (16 km):0, 20 miles (32 km):6
+DT;1
+DD;20
+E;This device comes with a small module that can be worn on a belt. The chest attempts to follow within immediate range of the module (though it can be directed to remain where it is). It moves a Short distance each round. The chest can come to the module from a range of up to ^ away. The interior of the chest is mostly hollow and can hold up to 5,000 pounds (2,300 kg). The artifact must be newly activated each day.
+}
+
+{Cellular Disruptor
+D;6
+B;4
+F;Small handheld device with a few simple controls
+V;
+T;
+DT;1
+DD;10
+E;This device emits a faint Short-range beam that affects only organic creatures and materials. Living targets hit by the beam move one step down the damage track. Nonliving organic targets are likely destroyed. This device is a rapid-fire weapon and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Chameleon Cloak
+D;6
+B;4
+F;Very thin lightweight transparent cloth formed into a crude cloak
+V;
+T;ten minutes:0, 1 hour:9
+DT;1
+DD;100
+E;When activated, the device takes on the colors and textures of everything around the wearer for ^, easing hiding and sneaking tasks by two steps.
+}
+
+{Chiurgeon Sphere
+D;6
+B;2
+F;Small spherical automaton about 8 inches (20 cm) in diameter
+V;
+T;
+DT;1
+DD;20
+E;This device comes with a small module that can be worn on a belt. Floating along, the automaton attempts to follow within immediate range of the module (though it can be directed to remain where it is). It moves a short distance each round. The sphere can come to the module from a range of up to 10 miles (16 km) away. If the module is worn by an organic creature and that creature takes damage, the automaton moves to repair the damage with cellular regenerating tools that restore 1d6 - 2 points per round (meaning that if a 1 or 2 is rolled, no damage is repaired that round). This requires no action on the part of the creature being healed. Each day, the automaton can attempt to render aid no more than $ times. The artifact must be newly activated each day.
+}
+
+{Cohesion Stabilizer
+D;6
+B;2
+F;Wristband-mounted device with a few simple controls, Amulet with tiny controls on its face
+V;
+T;
+DT;1
+DD;10
+E;Any effect of level $ or below that would disintegrate, transform, encase, teleport, change the phase of, or otherwise disrupt the wearer fails if the wearer wishes it to fail (though it does not protect against direct damage). Doing so is not an action on the wearer's part.
+}
+
+{Cypher Bag
+D;5
+B;1
+F;Synth bag inlaid with circuitry, Compartmentalized bag lined with pliable metal
+V;
+T;
+DT;1
+DD;20
+E;This bag can contain up to $ cyphers, as long as each is no larger than a typical handheld device. These cyphers do not count against a character's limit, but they cannot be used while in the bag. Placing a cypher in the back counts as an activation, even if that cypher was previously in the bag.
+}
+
+{Dimensional Armor
+D;6
+B;4
+F;Full suit of synth and steel armor that covers the entirety of the wearer's body
+V;
+T;10 minutes:0, 1 hour:9
+DT;1
+DD;10
+E;This armor is far hardier yet somewhat lighter than Ninth World smithing techniques could ever manage with steel. It is heavy armor but grants an additional +1 Armor in addition to the 3 Armor that heavy armor usually provides. Further, when activated, it shifts the wearer's phase randomly for ^, hindering attacks on the wearer by two steps. This will not cause the character to phase through the ground, and it generally won't affect their ability to carry or interact with objects. If depleted, the dimensional phasing no longer functions, but the suit still functions as armor.
+}
+
+{Disrupting Blade
+D;6
+B;1
+F;Circuit-inlaid sword, Circuit-inlaid axe, Circuit-inlaid cleaver
+V;
+T;if:0, it gives an asset to attack rolls and if:6
+DT;1
+DD;6
+E;This artifact functions as a normal weapon. However, if the wielder uses an action to activate it, the weapon radiates a field of molecular disrupting energy for one round. During that round, ^ it scores a hit, it inflicts an additional 10 points of damage.
+}
+
+{Drill Spear
+D;6
+B;1
+F;Wooden shaft with an affixed spearhead that appears to be a metallic drill, Lightweight metal pole ending in a metallic drill
+V;
+T;3:0, 5:6
+DT;1
+DD;20
+E;This spear functions as a normal spear. When activated, the spear drills into whatever it is put against, inflicting an additional ^ points of damage. In melee, the spear can be activated after a successful attack, but if thrown, the spear must be activated before the attack is made. In either case, the spear becomes stuck in anything of level $ or below it drills into, requiring a level 4 Might action or additional activation to dislodge. Dislodging the spear from a still-living creature deals an additional ^ points of damage, though getting hold of the spear to dislodge it counts as an attack.
+}
+
+{Ecstacy Paralyzer
+D;6
+B;2
+F;Handheld device with a few controls
+V;
+T;
+DT;1
+DD;20
+E;This Long-range weapon fires a beam of energy that inflicts no damage. Instead, it affects the target's mind, filling them with such pleasure that they lose their next turn. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Exploding Arrow
+D;6
+B;0
+F;Arrow with a tiny metallic device attached to it, Crossbow bolt with a tiny metallic device attached to it, Throwing knife with a tiny metallic device attached to it
+V;
+T;point:0, points:2
+DT;1
+DD;0
+E;The arrow explodes when it strikes something, inflicting $ ^ of damage to all within immediate range (no attack roll required).
+}
+
+{Fearmaker
+D;6
+B;2
+F;4-foot (1 m) tall collapsible tripod with a metal cone at the top
+V;flee for [/r 1d6] rounds:5, cower without taking actions for [/r 1d6] rounds:4, faint for 1 minute or until roused by vigorous action:1
+T;
+DT;1
+DD;6
+E;It takes two rounds to assemble and set up this device, and then it takes an action to activate. When activated, the fearmaker affects the minds of all thinking creatures within Long range in a 45-degree arc. Those affected are instilled with terror, making them drop what they're holding and @.
+}
+
+{Fiery Hellmaker
+D;6
+B;4
+F;7-foot (2 m) tall collapsible metal stand with a large metal disk at the top and a control box in the center
+V;
+T;
+DT;1
+DD;6
+E;It takes two rounds to assemble and set up this device, and then it takes an action to activate. When activated, the disk fires a barrage of fiery Long-range missiles in all directions. Everyone and everything within Long range suffers damage equal to the artifact level, unless they are within 3 feet (1 m) of the device and keep their heads down.
+}
+
+{Filtration Straw
+D;6
+B;0
+F;Long narrow synth tube
+V;
+T;
+DT;0
+DD;6
+E;Water that passes through this tube is purified. Most liquids other than water drawn through the tube come out as water (or mostly water). It neutralizes poisons, diseases, and other contaminants of level $ or lower.
+}
+
+{Food Scanner
+D;6
+B;0
+F;Handheld device with a number of controls and a wide dish at one end
+V;
+T;
+DT;1
+DD;20
+E;When activated and pointed at food, this device sounds an alarm if the food has any contaminants or poisonous substances.
+}
+
+{Food Tube
+D;6
+B;0
+F;Synth tube, Metal and synth box with a tube on one side
+V;bland oatmeal:2, incredibly runny eggs:2, raw ground meat:3, clay:2, grass clippings:2, spoiled milk:2
+T;one person:0, two people:5
+DT;1
+DD;20
+E;The device produces a grey paste that provides enough nutrition for ^ for one day. The paste tastes like @ and spoils after 28 hours.
+}
+
+{Force Dome
+D;6
+B;3
+F;4-foot (1 m) tall collapsible tripod with a large glass globe at the top and a control box in the center
+V;
+T;
+DT;1
+DD;20
+E;It takes two rounds to assemble and set up this device, and then it takes an action to activate. When activated, this device projects a powerful force field dome with a diameter of Short range. The field is immobile, impermeable, and impenetrable until it is brought down by a force with a level greater than $. Otherwise, it lasts for 28 hours, during which time it has enough air to support six humans.
+}
+
+{Healing Weapon
+D;6
+B;0
+F;Typical sword with an odd-looking synth hilt, Typical axe with an odd-looking synth hilt, Typical mace with an odd-looking synth hilt
+V;
+T;1d6:0, 1d6+2:5
+DT;1
+DD;10
+E;The weapon's business end is a Ninth World-forged addition to the numenera hilt (which likely was not a sword hilt originally). When squeezed properly, the hilt injects a healing substance into the wielder's body, restoring [/r ^] points of any stat Pool they wish. If the wielder is using the weapon in battle, using the healing function does not require an action.
+}
+
+{Hoop Staff
+D;6
+B;3
+F;Long wooden staff with a 6-inch (15 cm) bronze hoop attached to the tip. The staff is of recent creation, but the hoop is not.
+V;
+T;
+DT;1
+DD;100
+E;Holographic images flicker to life in the hoop, warning of danger. The images are representative of the danger in some fashion. For example, approaching enemies look like threatening, amorphous creatures, and dangerous weather might look like lightning bolts coming from a cloud. The GM decides when and how the staff warns of danger. For inexplicable reasons, sometimes it fails to deliver a warning.
+}
+
+{Hover Belt
+D;6
+B;1
+F;Odd-fitting metallic mesh belt that has a metal box attachment with dial controls
+V;
+T;20 feet (6 m) per round. The wearer can also move horizontally at a much slower pace of 5 feet (1.5 m):0, 40 feet (12 m) per round. The wearer can also move horizontally at a much slower pace of 10 feet (3 m):6
+DT;1
+DD;20
+E;The wearer can float up into the air or back down again at a rate of ^ per round via the controls, resulting in a much less stable or controlled trajectory. The belt works for ten minutes per use, though the user can re-activate it before that time to avoid falling.
+}
+
+{Hover Square
+D;6
+B;0
+F;Folded synth square that is 1 foot by 1 foot (30 cm by 30 cm) and unfolds into a square that is 8 feet by 8 feet (2.5 m by 2.5 m)
+V;
+T;5000 pounds (2300 kg):0, 8000 pounds (3600 kg):5
+DT;1
+DD;20
+E;When unfolded and activated, this piece of synth forms a platform that moves laterally as directed by someone atop it. The platform moves up to Short range in a round. It can hold up to ^.
+}
+
+{Imager
+D;6
+B;0
+F;Small rectangular handheld device with a clear synth panel
+V;
+T;
+DT;1
+DD;100
+E;This device captures a perfect image of a nearby scene. It can store thousands of images, and any stored image can be shown on the synth panel. When the device is depleted, all stored images are lost.
+}
+
+{Instant Bridge
+D;6
+B;1
+F;Handheld device with a few controls
+V;
+T;1000 pounds (450 kg):0, 2000 pounds (900 kg):6
+DT;1
+DD;20
+E;This device fires a cable with a powerful magnet up to Long range. When the magnet strikes a metal surface, it affixes itself, and the taut cable extends into a narrow bridge about 3 feet (1 m) wide. The device can then be affixed to another metallic surface to anchor the bridge. The bridge can support up to ^. When deactivated, the magnets let go and the cable retracts.
+}
+
+{Kinetic Shield
+D;6
+B;1
+F;Wristband with a small metal device attached, Bracer with a small metal device attached, Armband with a small metal device attached
+V;
+T;eased:0, eased by 2 steps:6
+DT;1
+DD;20
+E;When a physical projectile such as an arrow, a thrown knife, or a bullet-like missile comes within 4 inches (10 cm) of the wearer's body, a powerful energy field activates automatically and attempts to slow down or deflect the projectile. The wearer's Speed defense against such attacks is ^. If the projectile still hits the wearer, the field adds 1 to Armor against the attack.
+}
+
+{Launcher
+D;6
+B;3
+F;Metal tube with a set of winding synth tubes wrapped around it
+V;
+T;
+DT;1
+DD;20
+E;This device launches anything about the size of a fist or smaller with great force to Very Long range. An inert object, such as a rock, inflicts $ points of damage. A detonation cypher (or similar explosive) can also be launched to activate on impact
+}
+
+{Light Spike
+D;6
+B;2
+F;Fingerless glove of semi-rigid synth, Bracer with a synth attachment
+V;
+T;
+DT;1
+DD;20
+E;When activated, a spike of solid, red-hot energy extends along the back of the wearer's hand. This spike can be used as a melee weapon that inflicts $ damage, and it lasts for ten minutes. If the wielder increases the spike's power (which requires a separate action and an additional depletion roll), the damage increases by 1 point.
+}
+
+{Liquid Armor
+D;6
+B;3
+F;Adamant silk belt with two metallic cylinders attached to it
+V;
+T;4:0, 6:8
+DT;1
+DD;20
+E;When activated, a watery liquid sprays out of the cylinders on the belt. An electric field shapes this smart fluid, causing it to form a protective shell around the wearer, not unlike full body armor. The fluid becomes immediately (but selectively) rigid when struck, providing +3 to Armor, but it has none of the penalties associated with armor. It can be used over the top of light armor, adding to its protection, but medium or heavy armor disrupts the electric field's shaping attempts. The liquid armor lasts for ^ hours or until deactivated.
+}
+
+{Liquid Weapon
+D;6
+B;3
+F;Adamant silk wristband with a metallic cylinder attached to it
+V;
+T;4:0, 6:8
+DT;1
+DD;20
+E;When activated, a watery liquid sprays out of the cylinder on the wristband. An electric field shapes this smart fluid, causing it to take the form of a broadsword, battleaxe, mace, or any other medium melee weapon the user desires. The fluid becomes immediately rigid and incredibly sharp, and it can be used as a normal weapon that inflicts 1 additional point of damage, though it cannot be thrown more than an Immediate distance before returning. The weapon lasts for ^ hours or until deactivated.
+}
+
+{Living Armor Sheath
+D;6
+B;1
+F;When not affixed to a creature this looks like a mass of heavy fabric. On a creature it looks like heavy leathery flesh.
+V;
+T;.:0,  by two steps.:6
+DT;1
+DD;100
+E;When worn over normal skin, this organic material adheres and conforms to the creature's body shape. The artifact eases Might defense tasks to resist poison and disease^ Further, the wearer has +2 to Armor, but the artifact has none of the penalties associated with armor. Armor can't be worn over the living sheath because it's too bulky. Depletion is checked every day it is worn, and once the artifact is depleted, it sloughs off the user.
+}
+
+{Mephitic Staff
+D;6
+B;0
+F;Short metal-and-glass tube fitted onto a well-made wooden quarterstaff, Sturdy synth staff with small holes in both ends
+V;
+T;
+DT;1
+DD;20
+E; When activated (which is not an action), the tip of the staff releases a concentrated, immediate-range blast of noxious fumes when it is struck against a solid creature or object. An affected creature loses its next turn to coughing and choking
+}
+
+{Metabolism Bud
+D;6
+B;0
+F;Organic pod almost like a small hemispherical bit of fruit, Hemispherical metal pod with small teeth on its flat side
+V;
+T;5:0, 7:5
+DT;0
+DD;6
+E;The pod grafts onto any living host (usually near the brain or spine) and injects chemicals that boost the creature's metabolism, increasing the host's maximum Speed Pool by ^. After grafting, the host's skin grows over and covers it.
+}
+
+{Mind Imager
+D;6
+B;2
+F;Handheld device with a synth panel screen and wires that must be affixed to the head of a creature
+V;
+T;
+DT;1
+DD;20
+E;This device shows a visual image of what a creature is thinking at the time of activation. The affected creature need not be conscious.
+}
+
+{Molecular Bonder
+D;6
+B;2
+F;Handheld device with a number of controls and a pointed end
+V;
+T;
+DT;1
+DD;6
+E;This device fuses two touching objects together with a level $ bond. If flesh bonded in this way (whether to an object or to other flesh) is torn apart, it suffers $ points of damage.
+}
+
+{Multidimensional Weapon
+D;6
+B;2
+F;Straight sword with an equally long haft that bears several controls, Square axe with controls along its haft, Spherical mace with controls along its haft
+V;
+T;
+DT;1
+DD;20
+E;When activated, the weapon's business end exists on many levels of reality at once. It inflicts $ points of damage, and it harms creatures (such as an abykos) that can be affected only by transdimensional effects. Once activated, the transdimensional effect is active for one minute.
+}
+
+{Murder Globe
+D;6
+B;3
+F;3-foot (1 m) tall collapsible metal tripod with a large metal globe at the top. The globe has a number of holes in it but is not hollow.
+V;
+T;
+DT;1
+DD;0
+E;It takes two rounds to assemble and set up this device, and then it requires an action to activate. When activated, this device does nothing for five rounds. After that, if anything larger than a mouse comes within long range of it, the globe fires a powerful projectile at that target that inflicts $ points of damage. The device can attack up to ten times per round, but it never attacks the same target more than once per round. It remains on watch for 28 hours or until it has made one hundred attacks, whichever comes first.
+}
+
+{Nano Needler
+D;6
+B;0
+F;Small handheld device with a fine metal mesh on one end
+V;
+T;Long range:0, Very Long Range:5
+DT;1
+DD;10
+E;This device projects a single needle—far smaller in width than a human hair—up to ^. The needle inflicts no damage, but it can carry poison or disease, and the injection is so tiny that the victim doesn't feel it. The needle can also penetrate (ignore) up to 4 Armor. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Needler
+D;6
+B;0
+F;Small handheld device with a tiny tube
+V;
+T;Long range:0, Very Long range:5
+DT;1
+DD;20
+E;This device projects a single needle (no damage), a spray of needles (1 point of damage), or a wide spray of needles (no damage, but it affects everyone within an immediate area)-user's choice. In each case, the needles can affect anyone within ^. The needles can carry poison, in which case even those who don't take damage are affected. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Nightvision Goggles
+D;6
+B;0
+F;Pair of synth goggles with dark protruding lenses
+V;
+T;Short range:0, Long range:5
+DT;0
+DD;10
+E;Outside, the wearer can see at night as if it were daylight. Inside, the wearer can see in pitch darkness up to ^.
+}
+
+{Phasing Piton
+D;6
+B;0
+F;Metallic spike with a single toggle stud
+V;
+T;
+DT;1
+DD;100
+E;When activated, the piton phases and can be inserted up to 6 inches (15 cm) into almost any material. When deactivated, the piton becomes solid again and remains embedded solidly in the material. If used as a weapon (requiring one action to activate and insert, and a second action to deactivate), the piton inflicts 6 points of damage.
+}
+
+{Plant Jar
+D;6
+B;0
+F;Large stronglass container, Large synth container
+V;
+T;
+DT;0
+DD;100
+E;A living plant placed inside this device remains alive until removed regardless of light, water, or other conditions
+}
+
+{Poison Brain Implant
+D;6
+B;1
+F;Capsule
+V;
+T;
+DT;0
+DD;100
+E;When swallowed, this implant travels to the brain and nests there. Henceforth, whenever a creature establishes contact with the user's mind (using mental attack, telepathic communication, mind control, and so on), the creature is attacked mentally. It is stunned for one round (losing its action) and takes $ points of Intellect damage. This effect does not prevent the contact, nor does it distinguish between harmful and benign contact.
+}
+
+{Psychic Shield
+D;6
+B;2
+F;Lightweight synth helmet, Circlet with a crystal in the center
+V;
+T;hindered:0, hindered by 2 steps:7
+DT;0
+DD;100
+E;The wearer gains 3 Armor that protects against Intellect damage only. Further, attempts to affect the wearer's mind are ^.
+}
+
+{Psychic Whistle
+D;6
+B;2
+F;Metal device 1 inch (2.5 cm) long with a single button
+V;humans:7, animals:3, reptiles:1, mammals:1, arthropods:1, automatons:2
+T;
+DT;1
+DD;100
+E;When the device is activated, a whistlelike sound is heard by @ within Very Long range. The device doesn't actually
+produce sound but instead stimulates the aural center of the target's brain. It has no effect on other kinds of creatures.
+}
+
+{Recorder Headband
+D;6
+B;2
+F;Leather-like headband with a small device attached
+V;
+T;
+DT;1
+DD;20
+E;This headband records everything the wearer sees as moving images that can be replayed and reviewed. It stores up to one hundred hours of images, with each hour of use requiring a depletion check. When the device is depleted, all stored images are lost.
+}
+
+{Redlight Clip
+D;0
+B;1
+F;Metal clip or pin easily affixed to clothing
+V;
+T;
+DT;0
+DD;20
+E;This object flashes red when in immediate range of dangerous radiation or poisonous gas.
+}
+
+{Remote Clamp
+D;6
+B;0
+F;Metal clamp with a detachable control pad
+V;
+T;
+DT;1
+DD;10
+E;The control pad allows someone to direct this extremely strong device to clamp and unclamp. The device is treated as two levels higher for the purposes of gripping objects or creatures. The pad must be within very long range of the clamp to control it.
+}
+
+{Repair Sphere
+D;6
+B;2
+F;Small spherical automaton about 8 inches (20 cm) in diameter
+V;
+T;
+DT;1
+DD;100
+E;This device comes with a small module that can be affixed to a machine. Floating along, the sphere attempts to follow within immediate range of the module whether or not it is attached (though the sphere can be directed to remain where it is). It moves a short distance each round. It can come to the module from a range of up to 10 miles (16 km) away. If the module is attached to a machine and that machine takes damage, the sphere moves to repair the damage with sophisticated tools, requiring no additional materials, task rolls, or direction. This requires no action on the part of the machine being repaired. The sphere can attempt to repair a machine up to $ times per day. The artifact must be newly activated each day.
+}
+
+{Safe Corridor
+D;6
+B;2
+F;Two separate metal and synth capsules about the size of a human head
+V;
+T;
+DT;1
+DD;20
+E;When the device is activated, the space between the two capsules forms an invisible corridor of breathable atmosphere with a moderate temperature. It hedges out dangerous vapors, vacuum, insects, radiation, nanites, and other particulate matter. The corridor is 8 feet (2.5 m) wide and can be up to 1 mile (1.5 km) long. It must be relatively unobstructed-uneven terrain is fine, but walls, hills, and so on will block it. The corridor remains for 28 hours.
+}
+
+{Second Skin
+D;6
+B;1
+F;When not affixed to a creature this looks like a mass of diaphanous fabric. On a creature it is almost invisible.
+V;
+T;an asset in Might defense tasks to resist poison and disease:0, all Might defense tasks against poison and disease eased by 2 steps:6
+DT;1
+DD;100
+E;When stretched over a creature's normal skin, this organic material adheres and conforms to its body shape. While wearing the second skin, the creature has ^. Depletion is checked every day it is worn, and once the artifact is depleted, it sloughs off the user.
+}
+
+{Shatter Wand
+D;6
+B;4
+F;Broad 8-inch (20 cm) synth rod with a single button
+V;
+T;
+DT;1
+DD;20
+E;This weapon realigns the molecular structure of a living target, in effect crystalizing its flesh. It works at Long range but has no visible manifestation (no ray or projectile). The device inflicts $ points of damage, and the target shatters if slain by this effect, exploding in an immediate radius with crystalline shrapnel that inflicts 3 points of damage. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Shock Manacles
+D;6
+B;1
+F;Lightweight pair of synth manacles, Lightweight pair of metal manacles
+V;
+T;
+DT;1
+DD;20
+E;Not only are these restraints binding, but they also inflict $ points of damage whenever the wearer attempts to break free. Once active, the manacles operate for 28 hours, though they do not release a target after that time.
+}
+
+{Skill Bud
+D;6
+B;0
+F;Organic pod almost like a small hemispherical bit of fruit, Hemispherical metal pod with small teeth on its flat side
+V;understanding numenera:3, salvaging numenera:3, balancing:2, jumping:2, swimming:2, riding:2, climbing:2, running:2, sneaking:2, perception:2, repairing:2, healing:2, persuasion:1, sleight of hand:1, deception:1, philosophy:1, intimidation:1, acrobatics:1, escaping:1, lifting/carrying:1, smashing/destroying:1
+T;.:0,  and one other skill.:5
+DT;0
+DD;6
+E;The pod grafts onto any living host (must be near the brain) and injects complex chemicals that alter brain and muscle functions, granting the host training in @^ After grafting, the host's skin grows over and covers it.
+}
+
+{Skull Blaster
+D;6
+B;2
+F;Headband with an attached cylinder that runs along the left side of the wearer's head
+V;
+T;
+DT;1
+DD;20
+E;This device emits a brilliant beam of focused light up to Very Long range. Targets hit by the beam take $ points of damage. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Slugspitter
+D;6
+B;1
+F;Long device with a narrow metal tube
+V;
+T;Long:0, Very Long:6
+DT;2
+DD;100
+E;With a quiet sound like a puff of air, this device fires a tiny slug of metal up to ^ range, inflicting $ points of damage. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Snipewand
+D;6
+B;4
+F;Long handheld device with a tiny plate of glass
+V;
+T;
+DT;1
+DD;20
+E;Sighting through the glass, the user can view targets up to 1 mile (1.5 km) away as if they were just a short distance away. The user must have a direct line of sight to the target-the device cannot penetrate barriers or go around corners. Once a target is sighted, the device can almost silently fire a tiny metal slug at the target that deals $ points of damage
+}
+
+{Stunner
+D;6
+B;0
+F;Handheld device that looks like a metal sphere with a handle
+V;
+T;Short range:0, Long range:5
+DT;1
+DD;20
+E;When activated, this device fires a beam of energy to ^ that stuns the target for one round, making them lose their next action. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Suspensor Belt
+D;6
+B;1
+F;Belt with a number of brass disks affixed to it
+V;
+T;300 pounds (136 kg):0, 500 pounds (227 kg):6
+DT;0
+DD;20
+E;This belt negates gravity enough to make all movement easier, granting the wearer a +1 bonus to their Speed Edge. Alternatively, a grossly obese creature could wear the belt simply to function normally. The belt supports up to ^.
+}
+
+{Telltale Glass
+D;0
+B;1
+F;Clear drinking glass
+V;
+T;
+DT;0
+DD;20
+E;This glass turns red if anything poisonous is put into it, even in very small quantities.
+}
+
+{Limb Graft
+D;6
+B;1
+F;Whip-like length of organic material similar to flesh, Jointed metal arm with a spiked "graft-port"
+V;
+T;.:0,  and gains an asset to all attacks made with it.:6
+DT;0
+DD;20
+E;This graft attaches to the host's spinal column so that it can be controlled like a limb. The host can use it as a light weapon even if their hands are full^ They can also use it like a prehensile tail that can hold their weight (assuming they are roughly human-sized) or another object.
+}
+
+{Thunder Cannon
+D;6
+B;4
+F;Large heavy tube with a bell-shaped end and a number of controls
+V;
+T;
+DT;1
+DD;10
+E;This massive device can barely be held or carried by a single person. When activated, it emits a 50-foot (15 m) wide cone of pure sonic force out to Long range. Any creature in that area is knocked prone and stunned for one round, losing its action. Unfixed items the size of a human or smaller are toppled and/or moved at least 5 feet (1.5 m). Larger objects might also be toppled.
+}
+
+{Transdimensional Shearer
+D;6
+B;2
+F;Handheld device with a number of controls and a wide dish at one end
+V;
+T;
+DT;1
+DD;20
+E;This Long-range weapon creates a momentary transdimensional fault line that acts much like a beam. It deals $ points of damage to anything it intersects and harms creatures that can be affected only by transdimensional effects (such as an abykos). This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+}
+
+{Trigger Trap
+D;6
+B;0
+F;Small complex box of metal sensor plates wires and controls
+V;
+T;can't discriminate based on the triggering entity's characteristics:0, can also be set for an entity of specific size or weight:4, can also be set for an entity of specific size and/or species:5, can also be set for an entity of specific size and/or species or even a specific individual:6
+DT;1
+DD;0
+E;A cypher of virtually any kind can be added to this trigger device to turn it into a trap. First, the cypher is added to the device (an Intellect task with a difficulty of 4), and then various wires and plates are affixed permanently to something-a nearby surface, door, hinge, and so on. When the trap is triggered, the cypher is activated, so people often use straightforward cyphers such as a detonation, a ray emitter, or a similar device. The trigger can react to a specified movement within 3 feet (1 m)—a door opening, a creature or object moving past the artifact, and so on. The trigger ^.
+}
+
+{Vuechi
+D;6
+B;1
+F;4-inch (10 cm) silver sphere that hovers in the air
+V;
+T;
+DT;1
+DD;20
+E;Once activated, this device follows within 3 feet (1 m) of the user and attacks anyone or anything within immediate range that attacks them. A vuechi attacks with a burst of electricity (up to Immediate range) that deals $ points of damage. Once activated, it functions for 28 hours.
+}
+
+{Weapon Graft
+D;6
+B;0
+F;Metal blade attached to a sleeve of fleshy material, Metal hammer attached to a sleeve of fleshy material, Chitinous blade attached to a sleeve of fleshy material, Chitinous hammer attached to a sleeve of fleshy material
+V;
+T;4:0, 6:5
+DT;0
+DD;20
+E;This organic graft fits over a hand or empty stump and affixes to the flesh of the host. The physical bond provides an asset to attacks with the grafted weapon. This is a medium weapon that inflicts ^ points of damage. Removing the graft deals $ points of damage to the user and renders the artifact useless.
+}
+
+{Windrider
+D;6
+B;1
+F;8-foot (2.5 m) long metallic wing
+V;
+T;80 miles (130 km):0, 100 miles (160 km):6
+DT;2
+DD;100
+E;This is a vehicle that can be ridden by someone who makes a difficulty 1 Speed roll each round. In combat, it moves a Long distance each round, but on extended trips, it can move up to ^ per hour. It can pull another vehicle like a sled behind it if equipped with a harness, but the blade's overland speed is halved for every 500 pounds (227 kg) it has to carry. The device only needs to make a depletion roll once every day.
+}
+
+{Windslice Blade
+D;6
+B;1
+F;Medium-length sword, Oddly shining battleaxe
+V;
+T;1 additional point:0, 2 additional points:6
+DT;0
+DD;100
+E;This weapon is made from a material so durable and dense that the edge is sharper and lasts far longer than Ninth World smithing techniques could ever manage with steel. The blade inflicts ^ of damage, and its name comes from the idea that it can slice even the wind in half.
+}

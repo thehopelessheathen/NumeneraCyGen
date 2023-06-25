@@ -1,0 +1,917 @@
+{Adhesion Clamps
+D;6
+B;0
+F;Metal-plated gloves, Metal pads with handles
+V;
+T;
+E;Allows for automatic climbing of any surface, even horizontal ones. Lasts for $0 minutes.
+}
+
+{Antivenom
+D;6
+B;2
+F;Pill, Ingestible liquid, Injector, Beam-emitting device
+V;
+T;
+E;Renders user immune to poisons of level $ or lower for $ hours and ends any such ongoing effects, if any, already in the user's system.
+}
+
+{Attractor
+D;6
+B;4
+F;Synth glove, Pearl-bearing ring, Clicker button, Snubnosed pistol-like device
+V;
+T;long:0, very long:8
+E;One unanchored item your size or smaller within ^ range is drawn immediately to the device. This takes one round. The item has no momentum when it arrives.
+}
+
+{Banishing Nodule
+D;6
+B;0
+F;Crystal attachable to a weapon, Twin metal hemispheres that attach to a weapon
+V;
+T;hindered:0, hindered by 2 steps:5
+E;For the next 28 hours, each time the weapon the cypher is attached to strikes a solid creature or object, it generates a burst of energy that teleports the creature or object struck an immediate distance in a random direction (not up or down). The teleported creature's actions (including defense) are ^ on its next turn.
+}
+
+{Blinking Nodule
+D;6
+B;0
+F;Crystal attachable to armor, Wristband, Oddly-shifting potion
+V;
+T;eased:0, eased by 2 steps:5
+E;For the next 28 hours, each time (but not more than once per round) the user of the cypher is struck hard enough to inflict damage, they teleport an immediate distance in a random direction (not up or down). Since the user is prepared for this effect and their foe is not, the user's defenses are ^ for one round after they teleport.
+}
+
+{Catholicon
+D;6
+B;2
+F;Pill, Ingestible fluid, Injector
+V;
+T;
+E;Cures any disease of level $ or lower.
+}
+
+{Catseye
+D;6
+B;0
+F;Pill, Eye injector, Dissolving contact lens
+V;
+T;5:0, 10:2, 15:3, 20:4, 25:5, 30:6, 35:7, 40:8, 45:9, 50:10
+E;Grants the ability to see in the dark for ^ hours.
+}
+
+{Chemical Factory
+D;6
+B;0
+F;Pill, Latching wrist injector, Vials of different-colored fluid
+V;causes euphoria for 1d6 hours:4, causes vivid hallucinations for 1d6 hours:4, makes the user feel exhilarated for 1d6 hours:4, makes the user feel inebriated for 1d6 hours:4, nourishes the user for 1 day:4, cures and immunizes the user against poisons of level $ and below for $ hour(s):5, cures all diseases of level $ and below:5, grants the ability to see in the dark for 1 hour:5, restores $ points of Might:10, restores $ points of Speed:10, restores $ points of Intellect:10, increases the user's Might Edge by 1 for 1 hour:10, increases the user's Speed Edge by 1 for 1 hour:10, increases the user's Intellect Edge by 1 for 1 hour:10, restores all of the users stat pools to full:10
+T;
+E;After one hour, the sweat of the user produces 1d6 doses of a valuable liquid (these doses are not considered cyphers). They must be used within one week, after which they lose all potency. One dose @.
+}
+
+{Comprehension Graft
+D;6
+B;1
+F;Small metal disk
+V;
+T;a specific language:0, two specific languages:5
+E;When applied to a creature's head, the disk immediately unleashes microfilaments that enter the brain. Within five minutes, the creature can understand the words of ^ keyed to the graft. This is true even of creatures that do not normally have a language. If the creature could already understand the language, the cypher has no effect. Once the graft attaches, the effect is permanent, and this device no longer counts against the number of cyphers that a PC can bear.
+}
+
+{Controlled Blinking Nodule
+D;6
+B;0
+F;Crystal attachable to armor, Wristband, Oddly-shifting potion
+V;
+T;eased:0, eased by 2 steps:5
+E;For the next 28 hours, each time (but not more than once per round) the user of the cypher is struck hard enough to inflict damage, they teleport to a spot they desire within immediate range. Since the user is prepared for this effect and their foe is not, the user's defenses are ^ for one round after they teleport.
+}
+
+{Datasphere Siphon
+D;6
+B;0
+F;Pill, Ingested fluid, Brain injector, Headband, Crystal worn on forehead, Small box with a screen, Amulet bearing a crystal
+V;
+T;one question:0, two questions:4, three questions:6
+E;Tapping into the datasphere's knowledge, the user can learn the answer to ^. Note that the GM is the final arbiter of what form that answer takes.
+}
+
+{Density Nodule
+D;6
+B;0
+F;Crystal affixed to a melee weapon, Pliable metal strap wrapped around a melee weapon
+V;
+T;2:0, 3:4
+E;For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, the weapon suddenly increases dramatically in weight, causing the blow to inflict an additional ^ points of damage.
+}
+
+{Detonation
+D;6
+B;2
+F;Thrown device (short range), Wrist projector (long range), Thrown device (short range), Shoulder-mounted launcher (long range), Throwable object (short range), Handheld launcher (long range)
+V;cell-disrupting energy that only effects living things:2, corrosive fluid:4, electricity:2, intense cold:2, fire:5, shrapnel:5
+T;
+E;Explodes in an immediate-radius burst of @, inflicting $ points of damage. Those in the radius take at least 2 points of damage regardless of attack or defense rolls.
+}
+
+{Dessicating Detonation
+D;6
+B;2
+F;Thrown device (short range), Wrist projector (long range), Shoulder-mounted launcher (long range), Throwable object (short range), Handheld launcher (long range)
+V;
+T;
+E;Bursts in an immediate radius, draining moisture from everything within it. Living creatures take $ points of damage, taking at least 2 points of damage regardless of attack or defense rolls. Water in the area is vaporized.
+}
+
+{Flash Detonation
+D;6
+B;2
+F;Thrown device (short range), Wrist projector (long range), Shoulder-mounted launcher (long range), Throwable object (short range), Handheld launcher (long range)
+V;
+T;one minute:0, ten minutes:4
+E;Bursts in an immediate radius, blinding all within it for ^.
+}
+
+{Gravity Detonation
+D;6
+B;2
+F;Thrown device (short range), Wrist projector (long range), Shoulder-mounted launcher (long range), Throwable object (short range), Handheld launcher (long range)
+V;
+T;
+E;Bursts in an immediate radius, inflicting $ points of damage by increasing gravity tremendously for one second. Those in the radius take at least 2 points of damage regardless of attack or defense rolls. All in the area are crushed to the ground for one round and cannot take physical actions.
+}
+
+{Massive Detonation
+D;6
+B;2
+F;Thrown device (short range), Wrist projector (very long range), Shoulder-mounted launcher (very long range), Handheld launcher (very long range)
+V;cell-disrupting energy that only effects living things:2, corrosive fluid:4, electricity:2, intense cold:2, fire:5, shrapnel:5
+T;
+E;Explodes in a short-radius burst of @, inflicting $ points of damage. Those in the radius take at least 2 points of damage regardless of attack or defense rolls.
+}
+
+{Nanite Detonation
+D;6
+B;4
+F;Thrown device (short range), Wrist projector (long range), Shoulder-mounted launcher (long range), Throwable object (short range), Handheld launcher (long range)
+V;
+T;
+E;Explodes in an immediate radius, releasing nanites that rearrange matter in random ways. Inflicts $ points of damage, and those in the radius take at least 2 points of damage regardless of attack or defense rolls.
+}
+
+{Pressure Detonation
+D;6
+B;2
+F;Thrown device (short range), Wrist projector (long range), Shoulder-mounted launcher (long range), Throwable object (short range), Handheld launcher (long range)
+V;
+T;20 lbs (9 kg):0, 60 lbs (27 kg):3, 80 lbs (36 kg):4, 100 lbs (45 kg):5, 120 lbs (54 kg):6, 140 lbs (63 kg):7, 160 lbs (72 kg):8, 180 lbs (81 kg):9, 200 lbs (90 kg):10
+E;Explodes in an immediate radius, creating a blast wave that inflicts $ points of damage. Those in the radius take at least 2 points of damage regardless of attack or defense rolls. Any unattended objects weighing less than ^ are pushed out of the area.
+}
+
+{Singularity Detonation
+D;0
+B;10
+F;Heavy box (immediate range), Throwable object (short range), Handheld launcher (long range), Shoulder-mounted launcher (long range)
+V;
+T;
+E;Explodes and creates a momentary singularity that tears at the fabric of the universe. Inflicts 20 points of damage to all within short range, drawing them (or their remains) together to immediate range (if possible). Player characters in the radius move one step down the damage track if they fail a Might defense roll.
+}
+
+{Sonic Detonation
+D;6
+B;2
+F;Thrown device (short range), Wrist projector (long range), Shoulder-mounted launcher (long range), Throwable object (short range), Handheld launcher (long range)
+V;
+T;
+E;Explodes with terrifying sound, deafening all in an immediate radius for $0 minutes.
+}
+
+{Spawning Detonation
+D;6
+B;2
+F;Thrown device (short range), Wrist projector (long range), Shoulder-mounted launcher (long range), Throwable object (short range), Handheld launcher (long range)
+V;cell-disrupting energy that only effects living things:2, corrosive fluid:4, electricity:2, intense cold:2, fire:5, shrapnel:5
+T;
+E;Explodes in an immediate-radius burst of bright light and @, inflicting $ points of damage and blinding those in the burst for 1 minute. The initial burst spawns 1d6 other detonations that fly to random points within short range and explode in an immediate radius on the next round. The spawned detonations deal the same kind of damage as the original. Creatures take at least 2 points of damage from each detonation they are caught in regardless of attack or defense rolls.
+}
+
+{Web Detonation
+D;6
+B;2
+F;Thrown device (short range), Wrist projector (long range), Shoulder-mounted launcher (long range), Throwable object (short range), Handheld launcher (long range)
+V;sticky strands of goo:3, a mass of quick-hardening foam:2, an immobilizing temporal anomaly:1
+T;
+E;Explodes in an immediate radius and creates @ that last 1 hour. PCs caught in the area must use a difficulty $ Might-based action to get out or free someone else. NPCs over level $ can break themselves or someone else free automatically as an action.
+}
+
+{Disrupting Nodule
+D;6
+B;0
+F;Crystal affixed to a melee weapon, Grey goo rubbed on a melee weapon
+V;
+T;1 additional point:0, 2 additional points:4, 3 additional points:6
+E;For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, it generates a burst of nanites that directly attack organic cells. The affected target takes ^ of damage and loses its next action.
+}
+
+{Eagleseye
+D;6
+B;0
+F;Pill, Eye injector, Dissolving contact lens
+V;
+T;hour:0, hours:2
+E;Grants the ability to see ten times as far as normal for $ ^.
+}
+
+{Fireproofing Solution
+D;6
+B;4
+F;Spray canister, Jar of ointment
+V;
+T;
+E;Grants $ points of Armor against fire damage for 28 hours when applied to an object no larger than 6 ft (2 m) on a side.
+}
+
+{Flame-Retardant Wall
+D;6
+B;0
+F;Belt buckle, Ring, Bracer, Handheld projector
+V;
+T;hour:0, hours:2
+E;Creates an immobile plane of permeable energy up to 20 feet by 20 feet (6 m by 6 m) for $ ^. The plane conforms to the space available. Flames passing through the plane are extinguished.
+}
+
+{Force Cube Projector
+D;6
+B;3
+F;Belt buckle, Ring, Bracer, Spherical projector
+V;
+T;
+E;Creates an immobile cube composed of six planes of solid force, each 30 feet (9 m) to a side, for one hour. The planes conform to the space available
+}
+
+{Force Nodule
+D;6
+B;4
+F;Crystal nodule affixed to armor, Separating series of disks affixable to armor
+V;
+T;2:0, 3:5
+E;For the next 28 hours, the armor the nodule is attached to is bolstered by a powerful force field, adding ^ to the Armor it provides.
+}
+
+{Force Screen Projector
+D;6
+B;3
+F;Belt buckle, Ring, Bracer, Handheld projector
+V;
+T;hour:0, hours:2
+E;Creates an immobile plane of solid force up to 20 feet by 20 feet (6 m by 6 m) for $ ^. The plane conforms to the space available.
+}
+
+{Force Shield Projector
+D;6
+B;0
+F;Skin-adherent patch, Bracer, Belt, Ring, Baton-like projector
+V;
+T;3:0, 4:5
+E;Creates a shimmering energy shield around the user for one hour, during which time they gain +^ Armor.
+}
+
+{Friction-Reducing Gel
+D;6
+B;0
+F;Spray canister, Jar of ointment
+V;
+T;hour:0, hours:2
+E;Sprayed across an area up to 10 feet (3 m) square, this gel makes things extremely slippery. For $ ^, movement tasks in the area are hindered by three steps.
+}
+
+{Frigid Wall Projector
+D;6
+B;2
+F;Complex wide-nozzled device
+V;
+T;
+E;Creates a wall of supercooled air up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts $ points of damage on anything that passes through it. The wall conforms to the space available and lasts for ten minutes.
+}
+
+{Gas Bomb
+D;6
+B;2
+F;Thrown device (short range), Wrist projector (long range), Shoulder-mounted launcher (long range), Throwable object (short range), Handheld launcher (long range)
+V;The cloud occludes sight but is otherwise harmless.:2, Living creatures that breathe in the gas lose their actions to choking and coughing for $ rounds.:2, Living creatures that breathe in the toxic gas suffer $ points of ambient damage.:6, The gas corrodes everything it touches dealing $ damage each round.:2, Living creatures that breathe in the gas lose their actions to cryptic hallucinations for $ rounds.:1, Living creatures that touch the gas suffer $ points of Speed damage.:1, Living creatures that breathe in the gas suffer $ points of Intellect damage.:2, Living thinking creatures that breathe in the gas flee in a random direction or freeze in place for $ rounds as petrifying terror grips them.:1, Living thinking creatures that breathe in the gas permanently lose their memory of the last minute.:1, Living creatures that breathe in the gas fall asleep for $ rounds or until awoken by a violent action or extremely loud noise.:2, Living thinking creatures that breathe in the gas do nothing but move towards and make melee attacks against the closest creature for $ rounds.:1
+T;
+E;Bursts in an immediate-radius poisonous cloud. The cloud lingers 1d6 rounds unless conditions dictate otherwise. @
+}
+
+{Gravity Nullifier
+D;6
+B;3
+F;Belt, Boots, Back-mounted device, Gravity-defying ingestible fluid, Small platform the user must stand on, Device with handle the user must grab
+V;
+T;50 pounds (22 kg):0, 100 pounds (44 kg):2, 150 pounds (66 kg):3, 200 pounds (88 kg):4, 250 pounds (110 kg):5, 300 pounds (132 kg):6, 350 pounds (154 kg):7, 400 pounds (176 kg):8, 450 pounds (198 kg):9, 500 pounds (220 kg):10
+E;For one hour, the user can float into the air, moving vertically (but not horizontally without some other action, such as pushing along the ceiling) up to a short distance per round. The user must weigh less than ^ for the cypher to function.
+}
+
+{Gravity Nullifying Applicator
+D;6
+B;2
+F;Spray canister, Beam-emitting device
+V;
+T;a human:0, two humans:6
+E;A nonliving object up to the size of ^ sprayed by this cypher floats 1d20 feet in the air permanently and no longer has weight if carried, though it needs to be strapped down.
+}
+
+{Heat Nodule
+D;6
+B;0
+F;Crystal affixed to a melee weapon, Odd-smelling jelly applied to weapon
+V;
+T;2:0, 3:4, 4:6
+E;For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, it generates a burst of heat, inflicting an additional ^ points of damage.
+}
+
+{Hunter-Seeker
+D;6
+B;0
+F;Cylindrical device, Wrist-mounted launcher, Shoulder-mounted launcher, Throwable object, Handheld launcher
+V;inflicts 8 points of damage:10, inflicts 3 points of damage and injects a poison that hinders all actions taken for $ minutes:6, explodes and deals 6 points of damage to all in immediate range:2, inflicts 4 points of damage via an electric shock tha stuns the target for $ rounds:1, covers the target in sticky goo that swiftly hardens and immobilizes them. Breaking free is a difficulty 8 Might-based task:1
+T;3:1, 4:2, 5:3, 6:4, 7:5, 8:6
+E;With long-range movement, this intelligent missile tracks and attacks a specified target (target must be within sight when selected). If the first attack misses, it makes up to $ additional attacks, stopping when it hits the target. Once it hits, it @.
+}
+
+{Image Projector
+D;6
+B;0
+F;Headband with a crystal, Glass tube worn over ear, Handheld projector
+V;a terrifying creature of an unknown species that aggressively prowls a 10-foot (3 m) cube:2, a giant machine that almost completely fills a 30-foot (9 m) cube and makes rhythmic noises:2, a 50-foot (15 m) cube of picturesque if slightly alien countryside:1, a banquet of delicious-looking exotic food contained in a 10-foot (3 m) cube:1, a 50-foot (15 m) cube of solid color that obscures sight and makes a horrid droning noise:2, an incomprehensible yet deeply unsettling collection of shapes sounds and motions contained in a a 20-foot (6 m) cube:2
+T;short:0, long:4, very long:6
+E;Projects an immobile three-dimensional scene for one hour: @. The scene appears up to a ^ distance away. The scene includes movement, sound, and smell but are intangible.
+}
+
+{Inferno Wall Projector
+D;6
+B;2
+F;Complex wide-nozzled device
+V;
+T;
+E;Creates a wall of extreme heat up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts $ points of damage on anything that passes through it. The wall conforms to the space available and lasts for ten minutes.
+}
+
+{Infiltrator
+D;6
+B;0
+F;Small orb that phases through eye when completed, Combination projectile launcher and eye injector, Launcher that adheres to temple, Handheld launcher with holographic display
+V;
+T;500 feet (150 m) and scans an area up to 50 feet (15 m):0, 1000 feet (300 m) and scans an area up to 100 feet (30 m):2, 1500 feet (450 m) and scans an area up to 150 feet (45 m):3, 2000 feet (600 m) and scans an area up to 200 feet (60 m):4, 2500 feet (750 m) and scans an area up to 250 feet (75 m):5, 3000 feet (900 m) and scans an area up to 300 feet (90 m):6
+E;Tiny capsule launches and moves at great speed, mapping and scanning an unknown area. It moves ^ away from it. It identifies basic layout, creatures, and major energy sources. Its movement is blocked by any physical or energy barrier.
+}
+
+{Instant Servant
+D;6
+B;0
+F;Box-like device, Belt buckle
+V;Spawns:1, Expands into:1
+T;hour:0, hours:2
+E;@ a level $ humanoid automaton that is roughly 2 feet (60 cm) tall. It can understand the verbal or gestured commands of the character who activates it. Once the servant is activated, commanding it is not an action. It can make attacks or perform actions as ordered to the best of its abilities, but it cannot speak. The automaton has short-range movement but never goes farther than long range away from the character who activated it. At the GM's discretion, the servant might have specialized knowledge, such as how to operate a particular device. Otherwise, it has no special knowledge. In any case, the servant is not artificially intelligent or capable of initiating action. It does only as commanded, operating for $ ^ before becoming inert.
+}
+
+{Instant Shelter
+D;6
+B;3
+F;Pill-shaped device, Beam-emitting device
+V;
+T;one-room structure with a door and a transparent window:0, two-room structure with an internal door and a transparent window:7
+E;With the addition of water and air, the small device expands into a simple ^. The structure is 10 feet by 10 feet by 20 feet (3 m by 3 m by 6 m). It is made from a form of shapestone and is permanent and immobile once created.
+}
+
+{Intellect Enhancement
+D;6
+B;2
+F;Pill, Ingestible liquid, Brain injector, Crystal embedded in forehead, Adhesive patch
+V;
+T;1 point :0, 2 points:5
+E;Increases the user's Intellect Edge by ^.
+}
+
+{Invisibility Nodule
+D;6
+B;0
+F;Crystal affixed to armor/clothing, Patch adhered to armor/clothing
+V;
+T;
+E;For the next $0 hours, the armor (or clothing) the nodule is attached to is invisible, making the wearer appear unarmored (or naked).
+}
+
+{Knowledge Enhancement
+D;6
+B;0
+F;Eye injector, Pill, Ingestible liquid, Brain injector, Crystal embedded in head
+V;melee attacks:2, ranged attacks:2, understanding numenera:4, repairing:2, crafting:2, persuasion:2, healing:1, speed defense:1, intellect defense:1, swimming:1, riding:1, sneaking:1
+T;trained:0, specialized:5
+E;For the next 28 hours, the user becomes ^ in @. This bonus stacks with existing skills and inabilities, though the user cannot become more than specialized.
+}
+
+{Lightning Wall Projector
+D;6
+B;2
+F;Complex multi-pronged device
+V;
+T;
+E;Creates a wall of electric bolts up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts $ points of damage on anything that passes through it. The wall conforms to the space available and lasts for ten minutes.
+}
+
+{Living Solvent
+D;10
+B;0
+F;Canister of slime
+V;
+T;round:0, rounds:2
+E;Once released, this organic slime dissolves 1 cubic foot of material each round. After $ ^, the slime dies and becomes inert.
+}
+
+{Machine Control Implant
+D;6
+B;2
+F;Hemisphere that dispenses a pill, Device worn over ear, Disk that adheres to head, Combination nodule and injector
+V;
+T;
+E;When activated, the cypher splits into two pieces. One is affixed to a numenera device and the other to a character. The character can then use their mind to control the device at long range, bidding it to do anything it could do normally. Thus, a device could be activated or deactivated, and a vehicle could be piloted. The control lasts for $0 minutes, and once the device is chosen, it cannot be changed.
+}
+
+{Magnetic Attack Drill
+D;6
+B;2
+F;Dart-sized device with drill head, Sphere with screw protrusion
+V;
+T;
+E;The user throws this cypher at a target within short range, and it drills into the target for one round, inflicting $ points of damage. If the target is made of metal or wearing metal (such as armor), the attack is eased.
+}
+
+{Magnetic Master
+D;6
+B;2
+F;Metal-plated gloves, Small pyramid-shaped device
+V;
+T;
+E;Establishes a connection with one metal object within short range that a human could hold in one hand. After this connection is established, the user can move or manipulate the object anywhere within short range (each movement or manipulation is an action). For example, the user could wield a weapon or drag a helm affixed to a foe's head to and fro. The connection lasts for $0 rounds.
+}
+
+{Magnetic Shield
+D;6
+B;2
+F;Metal-plated gloves, Vest lined with metal plates, Small pyramid-shaped device
+V;
+T;
+E;For $0 minutes, metal objects cannot come within immediate range of the activated device, and attacks made with such items against targets in range automatically fail. Metal items already in the area when the device is activated are slowly pushed out.
+}
+
+{Memory Lenses
+D;6
+B;0
+F;Contact lenses, Eyeglasses, Goggles
+V;
+T;30:0, 60:2, 90:3, 120:4, 150:5, 180:6
+E;Allows the wearer to mentally record everything they see for ^ seconds and store the recording permanently in their long-term memory. This memory is incredibly detailed, including even things the user may not have consciously noticed.
+}
+
+{Mental Scrambler
+D;6
+B;2
+F;Complex metal and glass device
+V;preventing them from taking actions:15, preventing them from speaking:5, effectively blinding and deafening them:5, obliterating their senses of size depth and proportion:5, preventing them from recognizing anyone they previously knew:5, causing them to temporarily lose all memory of the past $ hours:4, causing them to suffer total (if temporary) amnesia:3, stripping them of all inhibitions:2, completely inverting their ethics:1
+T;
+E;Two rounds after being activated, the device creates an invisible field that fills an area within short range and lasts for one minute. The field scrambles the mental processes of all thinking creatures, @. The effect lasts as long as they remain in the field and for 1d6 rounds after, although a difficulty $ Intellect defense roll is allowed each round to act normally (both in the field and after leaving it).
+}
+
+{Metal Death
+D;6
+B;2
+F;Wrist-mounted sprayer, Canister with hose
+V;
+T;
+E;Produces a stream of foam that covers an area about 3 feet by 3 feet (1 m by 1 m), transforming any metal that it touches into a substance as brittle as thin glass. The foam affects metal to a depth of about 6 inches (15 cm).
+}
+
+{Monoblade
+D;6
+B;2
+F;Injection into fingertip, Glove, Bracer, Hilt-like device, Hilt-like device
+V;of pure force:1, of glowing energy:1, with a glowing edge:1
+T;1:0, 2:3, 3:4, 4:5, 5:6, 6:7, 7:8, 8:9, 9:10
+E;Produces a 6-inch (15 cm) blade @. The blade cuts through any material of level ^ or below like a knife through paper. If used as a weapon, it is a light weapon that ignores Armor of level ^ or below. The blade lasts for ten minutes.
+}
+
+{Motion Detector
+D;6
+B;2
+F;Disk that attaches to a flat surface, Injection into base of skull, Amulet, Handheld device with display
+V;
+T;
+E;Indicates when any movement occurs within short range, or when large creatures or objects move within long range (the cypher distinguishes between the two). It also indicates the number and size of the creatures or objects in motion. Once activated, it operates for $ hours.
+}
+
+{Personal Environment Field
+D;6
+B;2
+F;Skin-adherent patch, Medallion, Belt, Ring, Cube-shaped projector
+V;that will sustain a human safely for 28 hours:99, designed for a nonhuman nonterrestrial creature. A human in this field takes 1 point of ambient damage every round:1
+T;1 foot (30 cm):0, 2 feet (60 cm):7
+E;Creates an aura of temperature and atmosphere @. The aura extends to ^ around the user. It does not protect against sudden flashes of temperature change (such as from a heat ray).
+}
+
+{Phase Changer
+D;6
+B;1
+F;Belt, Medallion, Ring, Device that wraps around forearm
+V;
+T;1 minute:0, 2 minutes:6
+E;Puts the user out of phase for ^. During this time, the user can pass through solid objects as though they were entirely insubstantial, like a ghost. However, they do not pass through whatever's beneath their feet unless they wish to. They cannot make physical attacks or be physically attacked.
+}
+
+{Phase Disruptor
+D;6
+B;2
+F;Complex nozzled device, Series of nodes placed on a surface, Beam-emitting device
+V;
+T;
+E;Puts a portion of a physical structure (like a wall or floor) out of phase for one hour. It affects an area equal to $ 5-foot (1.5 m) cubes per cypher level. While the area is out of phase, creatures and objects can pass freely through it as if it were not there, although one cannot see through it, and it blocks light.
+}
+
+{Emotion Poison
+D;6
+B;2
+F;Dissolvable pill, Ingestible liquid, Injector, Lipstick, Ring with needle
+V;incredibly angry. All interactions with them are hindered by two steps and they are likely to attack anyone that disagrees with them:4, a primal fear. This fear causes them to flee in terror for at least 1 minute whenever they are threatened. All intimidation tasks against them are eased by two steps if they cannot flee:4, unnaturally amorous. They find it nearly impossible to focus on non-sexual tasks. Non-sexual tasks are hindered while sexual ones are eased:4, depressed. All tasks they attempt are hindered:3, a wave of crushing ennui. All tasks they attempt are hindered by two steps:3, joyful and carefree. All pleasant interaction tasks are eased:2, romantic. All pleasant interaction tasks are eased by two steps. The creature is likely to form a deep-seated romantic bond that lasts for the duration:1
+T;
+E;A creature subjected to this poison begins to feel @. The emotion lasts for 1 hour.
+}
+
+{Explosive Poison
+D;6
+B;1
+F;Dissolvable pill, Ingestible liquid, Injector, Lipstick, Ring with needle
+V;the paired remote detonator is triggered within Long range:5, a specified amount of time passes:3, the victim takes a specific action:2, a specific note is sung or played on an instrument within Short range:1, the victim smells a specific scent within Immediate range:1, the victim comes within Long range of the paired detonator:4, the victim is no longer within Long range of the paired detonator:4
+T;
+E;Once this substance enters the bloodstream, it travels to the brain and reorganizes into an explosive that detonates when activated, inflicting 10 points of damage (ignoring Armor). The explosive activates when @.
+}
+
+{Mind-Controlling Poison
+D;6
+B;2
+F;Dissolvable pill, Ingestible liquid, Injector, Lipstick, Ring with needle
+V;lie down for one minute with its eyes closed when told to do so:20, flee in terror for 1 minute when threatened:20, answer questions truthfully for 1 minute:20, attack their closest friend for 1 round once within immediate range of that friend:15, obey the next understood verbal command given to it:10, feel sexually attracted to the next creature of its own species that it sees:8, feel sexually attracted to the next sapient creature of a different species that it sees:2, move toward the next red object seen for 1 minute. The creature does not take other actions and ignores self-preservation:5
+T;
+E;A creature subjected to this poison is compelled to @.
+}
+
+{Mind-Disrupting Poison
+D;6
+B;2
+F;Dissolvable pill, Ingestible liquid, Injector, Lipstick, Ring with needle
+V;
+T;
+E;A creature subjected to this poison suffers $ points of Intellect damage and cannot take actions for $ rounds.
+}
+
+{Psychic Communique
+D;6
+B;2
+F;Pill, Device that adheres to temple, Device worn over ear, Metallic disk, Device with antenna
+V;
+T;
+E;Allows the user to project a one-time, one-way telepathic message of up to $0 words, with an unlimited range, to anyone they know.
+}
+
+{Ray Emitter
+D;6
+B;2
+F;Subdermal implant, Eyepiece, Ring, Wristband, Headband, Shoulder-mounted projector, Pen-shaped device, Pistol-like projector, Monocular-like device
+V;concentrated heat:5, concentrated light:5, cell-disrupting radiation that only effects living things:2, force:4, magnetic energy:1, energy that disrupts molecular bonds:1, concentrated cold:1
+T;Long:0, Very Long:6
+E;Projects a destructive ray of @ up to ^ range, inflicting $ points of damage.
+}
+
+{Numbing Ray Emitter
+D;6
+B;2
+F;Subdermal implant, Eyepiece, Ring, Wristband, Headband, Shoulder-mounted projector, Pen-shaped device, Pistol-like projector, Monocular-like device
+V;minute:19, hour:1
+T;Long:0, Very Long:6
+E;Allows the user to project a ray of energy up to ^ range that numbs one limb of the target, making it useless for one @.
+}
+
+{Paralysis Ray Emitter
+D;6
+B;2
+F;Subdermal implant, Eyepiece, Ring, Wristband, Headband, Shoulder-mounted projector, Pen-shaped device, Pistol-like projector, Monocular-like device
+V;minute:19, hour:1
+T;Long:0, Very Long:6
+E;Allows the user to project a ray of energy up to ^ range that paralyses the target for one @.
+}
+
+{Reality Spike
+D;6
+B;4
+F;Metallic spike
+V;
+T;
+E;Once activated, the spike freezes in place, even if activated in midair. However, the spike will follow the motion of celestial bodies (e.g. the Earth) if the user is within the gravitational pull of one. A difficulty $ Might action can dislodge the spike, but doing so renders the spike inert.
+}
+
+{Rejuvenator
+D;6
+B;2
+F;Pill, Ingestible fluid, Injector, Bracer with built-in injector,
+V;Might:2, Speed:1, Intellect:1
+T;
+E;Restores $ points to the user's @ pool.
+}
+
+{Two-Step Rejuvenator
+D;6
+B;0
+F;Pill, Ingestible fluid, Injector, Bracer with built-in injector,
+V;Might:2, Speed:1, Intellect:1
+T;
+E;Restores $ points to the user's @ pool on the round it is used, and $ more points on the round afterward.
+}
+
+{Slow Rejuvenator
+D;6
+B;1
+F;Pill, Ingestible fluid, Injector, Bracer with built-in injector,
+V;Might:2, Speed:1, Intellect:1
+T;
+E;Restores 2 points to the user's @ pool every minute for $ minutes.
+}
+
+{Remote Viewer
+D;6
+B;0
+F;Device that splits into two parts when activated
+V;glass screen on:2, holographic projection from:1
+T;hour:0, hours:2
+E;For $ ^, a @ one part shows everything going on in the vicinity of the other part, regardless of the distance between the two parts.
+}
+
+{Repair Unit
+D;10
+B;0
+F;Belt-mounted device, Shoulder-mounted launcher, Spherical device, Box with a sealed door
+V;
+T;
+E;Produces a multiarmed automaton that floats. It repairs one designated numenera device (of level $ or below) that has been damaged but not destroyed. The repair unit can even fabricate spare parts, though some parts are too specialized or rare to produce. If such a part is needed, the unit repairs the device entirely except for the specialized part. Repair time is 1d100 + 20 minutes.
+}
+
+{Retaliation Nodule
+D;6
+B;0
+F;Crystal attachable to armor, Separating series of disks affixable to armor
+V;
+T;1 point:0, 2 points:4, 3 points:6
+E;For the next 28 hours, anyone striking the armor the nodule is attached to triggers a small burst of electricity that inflicts ^ of damage. No action or roll is required by the armor's wearer.
+}
+
+{Sheen
+D;6
+B;0
+F;Pill, Injector, Ingestible fluid, Spray canister
+V;
+T;+1:0, +2:5
+E;For one week, the user's cells are coated with a protective veneer that provides ^ to Armor and eases Might defense rolls by two steps. However, healing is more difficult during this time, so all recovery rolls suffer a -1 penalty.
+}
+
+{Shock Nodule
+D;6
+B;0
+F;Crystal affixed to a melee weapon, Metallic strip affixed to a melee weapon
+V;
+T;1:0, 2:4, 3:6
+E;For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, it generates a burst of electricity, inflicting an additional ^ point(s) of damage.
+}
+
+{Shocker
+D;6
+B;4
+F;Ring, Subdermal implant, Glove with metal plates, Short rod, Device worn over knuckles
+V;
+T;
+E;Delivers a powerful burst of electricity that shocks any creature touched, inflicting $ points of damage.
+}
+
+{Skill Boost
+D;6
+B;0
+F;Pill, Injector, Ingestible fluid
+V;melee attacks:15, ranged attacks:15, Speed defense tasks:10, Might defense tasks:10, Intellect defense tasks:10, jumping tasks:8, climbing tasks:8, running tasks:8, swimming tasks:8, sneaking tasks:2, balancing tasks:2, perceiving tasks:2, lifting and carrying tasks:1, escaping tasks:1
+T;
+E;Dramatically but temporarily alters the user's mind and body so that @ they perform are eased by three steps. Once activated, this boost can be used $ times, but only within a 28-hour period. Each task is considered a use, though the user can choose not to use the cypher on a given task.
+}
+
+{Sleep Inducer
+D;6
+B;0
+F;Dissolvable pill, Injector, Ingestible fluid, Ring, Glove, Gas sprayer
+V;
+T;
+E;Puts a creature to sleep for ten minutes or until awoken by a violent action or an extremely loud noise.
+}
+
+{Sonic Hole
+D;6
+B;2
+F;Wristband, Ring, Belt-mounted device, Small sphere, Spongy cube-shaped device
+V;
+T;
+E;Draws all sound within Long range into the device for $ rounds. Within the affected area, no sound can be heard.
+}
+
+{Sound Dampener
+D;6
+B;2
+F;Wristband, Ring, Belt-mounted device, Small sphere, Spongy cube-shaped device
+V;
+T;
+E;Dampens all sound within Immediate for $ minutes, providing an asset for all creatures in the area to attempt stealthy actions based on being quiet.
+}
+
+{Spatial Warp
+D;0
+B;5
+F;Small metal ring
+V;
+T;
+E;When affixed to another numenera device that affects a single target at range, that range is increased to 1 mile (1.5 km) with no penalties. Space is temporarily warped in terms of seeing and reaching the target. If direct line of sight is important to the device's effect, it remains important. Creating the spatial warp functions as one use of the device.
+}
+
+{Speed Boost
+D;6
+B;2
+F;Pill, Ingestible liquid, Injector, Device placed on nape of neck, Adhesive patch
+V;
+T;1 point:0, 2 points:5
+E;Increases the user's Speed Edge by ^ for 1 hour.
+}
+
+{Stim
+D;0
+B;6
+F;Pill, Ingestible liquid, Injector
+V;
+T;
+E;Eases the user's next action by three steps.
+}
+
+{Stim
+D;0
+B;6
+F;Pill, Ingestible liquid, Injector
+V;
+T;
+E;Eases the user's next action by three steps.
+}
+
+{Sharpener
+D;0
+B;6
+F;Pill, Ingestible liquid, Injector
+V;
+T;
+E;Eases the user's actions for 1 minute.
+}
+
+{Strength Boost
+D;6
+B;2
+F;Pill, Ingestible liquid, Muscular injector, Crystal embedded in chest, Adhesive patch
+V;
+T;1 point:0, 2 points:5
+E;Increases the user's Might Edge by ^ for 1 hour.
+}
+
+{Subdual Field
+D;6
+B;3
+F;Complex metal and glass device
+V;10 foot (3 m) cube:1, 10 foot (3 m) sphere:1, 20 foot (6 m) cube:1, 20 foot (6 m) sphere:1
+T;
+E;Two rounds after being activated, the device creates an invisible field that fills a @ within Long range for 1 minute.  It affects the minds of thinking beings within the field, preventing them from taking hostile actions. The effect lasts as long as they remain in the field and for 1d6 rounds after, although a difficulty $ Intellect defense roll is allowed each round to act normally (both in the field and after leaving it).
+}
+
+{Telepathy Implant
+D;6
+B;2
+F;Pill, Disk that attaches to forehead, Temporary tattoo, Circlet, Injector
+V;
+T;
+E;The user activates the device and targets one creature within close range. For $ hours, the device enables two-way Long-range mental communication between the user and the target.
+}
+
+{Linked Telepathy Implant
+D;6
+B;2
+F;Breakable pill, Separable disks that attach to the forehead, Collection of temporary tattoos, Injector with multiple doses
+V;
+T;
+E;Up to $ creatures can use this cypher together, each taking one piece of it. For $ hours, the device enables Long-range mental communication between all users.
+}
+
+{Bounding Teleporter
+D;6
+B;2
+F;Belt, Wristband, Ring, Boots, Handheld device, Complex metal and glass device
+V;
+T;100 feet (30 m):0, 200 feet (60 m):2, 300 feet (90 m):3, 400 feet (120 m):4, 500 feet (150 m):5, 600 feet (180 m):6, 700 feet (210 m):7, 800 feet (240 m):8
+E;Teleports the user up to ^ to a location they can see. They arrive safely with their possessions but cannot take anything else with them.
+}
+
+{Travelling Teleporter
+D;6
+B;4
+F;Belt, Wristband, Ring, Boots, Full bodysuit, Handheld device, Complex metal and glass device
+V;
+T;100 miles (160 km):0, 200 miles (320 km):2, 300 miles (480 km):3, 400 miles (640 m):4, 500 miles (800 km):5, 600 miles (960 km):6, 700 miles (1120 km):7, 800 miles (1280 km):8, 900 miles (1440 km):9, 800 miles (1600 km):10
+E;Teleports the user up to ^ to a location they have previously visited. They arrive safely with their possessions but cannot take anything else with them.
+}
+
+{Defensive Time Dilation Nodule
+D;6
+B;0
+F;Crystal attachable to armor, Metallic disk affixable to armor
+V;
+T;2 steps:0, 3 steps:6
+E;For the next 28 hours, time momentarily slows for the armor's wearer when they are attacked. To observers, it seems they are able to dodge attacks with inhuman speed and reflexes. This is an asset that eases Speed defense tasks by ^.
+}
+
+{Offensive Time Dilation Nodule
+D;6
+B;0
+F;Crystal attachable to a melee weapon, Metallic disk affixable to a melee weapon, Oddly shifting jelly smeared on melee weapon
+V;
+T;2 steps:0, 3 steps:6
+E;For the next 28 hours, the affected weapon can be swung with incredible speed, easing attacks made with it by ^.
+}
+
+{Tracer
+D;6
+B;0
+F;Wristband, Handheld device
+V;
+T;Short:0, Long:4, Very Long:6
+E;Fires a microscopic tracer that clings to any surface within ^ range. For the next 28 hours, the launcher shows the distance and direction to the tracer as long as it is in the same dimension.
+}
+
+{Visage Changer
+D;6
+B;0
+F;Pill, Facial injector, Tube of moldable paste
+V;
+T;providing an asset to disguise tasks:0, easing disguise tasks by 2 steps:5
+E;Changes the appearance of one human-sized creature, ^. The change takes ten minutes to apply and lasts for 28 hours.
+}
+
+{Visual Displacement Device
+D;6
+B;0
+F;Belt, Bracelet, Handheld device
+V;
+T;
+E;Projects holographic images of the wearer to confuse attackers. The images appear around the wearer, giving the wearer an asset to Speed defense tasks for $0 minutes.
+}
+
+{Vocal Translator
+D;6
+B;0
+F;Pill, Ingestible fluid, Headband, Disk that must be held to throat, Tube-shaped device
+V;
+T;28 hours:0, 2 days:2, 3 days:3, 4 days:4, 5 days:5, 6 days:6
+E;Translates everything said by the user into a language that anyone can understand for ^.
+}
+
+{Warmth Projector
+D;6
+B;0
+F;Belt, Bodysuit, Injector, Ingestible fluid
+V;
+T;
+E;Keeps the user warm and comfortable in the harshest cold temperatures for 28 hours. During this time, the user has $ Armor against cold damage.
+}
+
+{Water Breather
+D;6
+B;0
+F;Pill, Ingestible fluid, Injector, Collar
+V;
+T;5:0, 10:2, 15:3, 20:4, 25:5, 30:6
+E;Allows an air breather to extract oxygen from water for ^ hours so they can breathe underwater.
+}
+
+{X-Ray Viewer
+D;6
+B;4
+F;Glass panel, Goggles
+V;
+T;1:0, 2:3, 3:4, 4:5, 5:6, 6:7, 7:8, 8:9, 9:10
+E;When placed against a solid surface, this device allows the user to see through up to 2 feet (60 cm) of material. The panel only works on materials of level ^ or below. The effect lasts for $ minutes.
+}

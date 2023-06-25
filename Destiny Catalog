@@ -1,0 +1,242 @@
+{Ablative Thrower
+D;6
+B;3
+F;Bulky handheld device attached to large tanks and a wide hose, Box lined with nozzles
+V;
+T;
+E;When activated, creatures within Short range are coated with a fine mist of metallic nano particles that coats their clothing (but not flesh), hardening non-flexing portions for about an hour and granting +1 Armor.
+}
+
+{Shock Resonator
+D;6
+B;3
+F;Bulky handheld device, Bulky device worn on back
+V;
+T;
+E;When activated, any exposed metallic weapons within short range crackle with electricity for about an hour, granting affected weapons 1 additional point of damage when used in combat. Weapons that enter the area after the initial activation do not receive this bonus.
+}
+
+{Hitch-Recaller
+D;6
+B;2
+F;Handheld device
+V;
+T;
+E;When activated, the cypher splits into two pieces. One piece is affixed to a numenera structure of level 5 or above, and the other is kept by a character. The character can then use the connection between the two pieces to trigger a spatial warp any time within the next 28 hours. The spatial warp returns the user and all targets within immediate range to a location next to the numenera structure, no matter how far apart the character and the structure were. Creating the spacial warp requires power drawn from the numenera device, forcing a depletion roll (or destroying it if it is a cypher). If the device is depleted before the spacial warp, the cypher becomes useless, and the other piece notifies the user.
+}
+
+{Crafter's Eyes
+D;6
+B;2
+F;Thick glasses, Goggles, Contact lenses
+V;
+T;
+E;Shows the user informative images, allowing them to treat a single task of level $ or below as level 1. This task must be related to crafting, salvaging, or understanding numenera.
+}
+
+{Deception Filter
+D;6
+B;0
+F;Pill, Injector, Ingestible liquid, Badge, Collar
+V;
+T;
+E;Prevents a creature from knowingly telling any lies for one hour.
+}
+
+{Surpressive Detonation
+D;6
+B;1
+F;Wrist-mounted launcher (long range), Handheld launcher (long range), Shoulder-mounted launcher (long range)
+V;stinging micro-explosives:5, neurotoxic mist:7, nauseating radiation:5, mind-scrambling energy:3
+T;
+E;Explodes to release a burst of @ affecting all creatures within Short range, hindering all their attacks and non-defensive actions for about an hour.
+}
+
+{Effort Enhancer
+D;6
+B;0
+F;Pill, Ingestible fluid, Brain injector, Headband, Crystal worn on forehead, Amulet bearing a crystal
+V; melee attack:2,  ranged attack:2, n attempt to understand numenera:4, n attempt to salvage numenera:2, n attempt to craft numenera:2,  persuasion task:2,  healing task:1,  Speed defense task:1,  Intellect defense task:1,  swimming task:1,  riding task:1,  sneaking task:1
+T;
+E;For the next 28 hours, the user can access a thin connection to the datasphere to gain a very specific effect. When applying Effort to a@, the user can apply one free level of Effort.
+}
+
+{Emotion Smoother
+D;6
+B;0
+F;Pill, Ingestible fluid, Injector, Adhesive patch
+V;
+T;
+E;For the next hour, the character loses access to the part of their mind that registers and produces emotion. This allows the user to experience situations they might not otherwise be able to handle, to fairly weigh options without emotional shortcuts, or to tell completely convincing lies because they are no longer generating micro-expressions or other telling responses due to emotional inconsistency.
+}
+
+{Farspeaker
+D;6
+B;0
+F;Conical handheld device, Tube-shaped handheld device, Device worn over ear
+V;
+T;
+E;For the next ten minutes, the user can be heard at any distant location that they can see, as long as nothing physically blocks the intervening space. They can also hear sounds made in return. The area in which the user can speak and hear is up to a short distance across in the target location.
+}
+
+{Gravity Changer
+D;6
+B;2
+F;Conical handheld device, Tube-shaped handheld device, Device worn over ear
+V;
+T;
+E;Once placed, the plates change the direction of gravity within an area up to a short distance in diameter. The gravitic warp could be continuous across the affected area, or it could bend and curve, changing directions within the area up to $ times. Once gravity is warped, it cannot be changed and persists for 28 hours.
+}
+
+{Harmony Lamp
+D;6
+B;2
+F;Crystal orb, Hovering metallic sphere, Crystal crown, Banner of brilliance cloth
+V;
+T;
+E;For an hour after activation, the cypher emits a combination of colored light, sound, odor, and healing nanobots that permeate an area up to a short distance across. All positive interaction tasks made in the area gain an asset. Creatures who've made up their minds about a topic may be open to revisiting the issue. PCs add +1 to recovery rolls made in the area.
+}
+
+{Hale Field
+D;6
+B;3
+F;Bulky handheld device, Bulky device worn on back
+V;
+T;
+E;When activated, creatures and PCs within short range each gain 2 points of health or Might for about an hour. This bonus increases the maximum value of the stat as well.
+}
+
+{Destructive Drill
+D;6
+B;1
+F;Dart-sized device with drill head, Sphere with screw protrusion
+V;
+T;
+E;The user attaches this cypher to a wall or other structure of level $ or lower. On the following round, it drills into the object and keeps going beneath the surface for the next hour, creating a series of tunnels that weaken the integrity of the structure and reduce its level by 3. If a structure's level is reduced to 0 or lower, it is instead destroyed.
+}
+
+{Mass Mover
+D;6
+B;3
+F;Bulky device worn on back and several metal plates attached to object
+V;
+T;
+E;When securely attached to an unanchored object that weighs less than $0 tons, it allows the object to be moved to another location within Very Long range. Doing so requires that the user be able to push or pull the object to the new location, but for about an hour, the object seems almost weightless.
+}
+
+{Instant Item
+D;6
+B;0
+F;Amulet, Bracelet, Ring, Small crystal, Handheld device
+V;
+T;
+E;This cypher has a two-stage activation. The first stage occurs when the wearer keys an object that they can hold in one hand to the cypher. The object falls into a subspace pocket and remains indefinitely or until a user activates the cypher a second (and final) time, immediately retrieving the stored item.
+}
+
+{Instant Wall
+D;6
+B;1
+F;Pill-shaped device, Beam-emitting device
+V;
+T;
+E;With the addition of water and air, the small device produces an immobile plane up to 10 feet (3 m) tall, 30 feet (9 m) long, and 2 feet (60 cm) thick. It is made from a form of shapestone and is permanent and immobile once created.
+}
+
+{Instant Workshop
+D;6
+B;2
+F;Cube-shaped device, Beam-emitting device
+V;
+T;
+E;This small device produces a workbench that fixes itself in place. The workbench provides an adjustable-height work surface with light and a variety of attached tools suitable for working with commonplace objects, numenera objects, and structural components. The workshop enables crafting tasks by providing the appropriate tools and workspace, though it does not provide shelter from the elements. The workbench and all its components are made from a form of shapemetal, and the workbench is permanent and immobile once created.
+}
+
+{Iron Wind Resistance
+D;6
+B;3
+F;Pill, Injector, Ingestible fluid, Vest lined with metal plates
+V;
+T;
+E;Grants the user two assets to defense tasks made to resist the effects of an instance of the iron wind (and attempts to resist any ongoing effects instigated by previous iron wind contact, if any) for the next 28 hours. Also provides $ Armor against damage from other destructive nanites (like from a nanite detonation or disruption nodule).
+}
+
+{Object Replicator
+D;6
+B;1
+F;Crystal affixed to object, Beam-emmiting device, Box with sealed door on the side
+V;
+T;4 pounds (2 kg):0, 8 pounds (4 kg):2, 12 pounds (6 kg):3, 16 pounds (8 kg):4, 20 pounds (10 kg):5, 24 pounds (12 kg):6, 28 pounds (14 kg):7
+E;Fabricates three additional copies of an object of level $ or below that weighs ^ or less. This can replicate exotic materials, but not functioning cyphers, artifacts, or similar devices.
+}
+
+{Organ Factory
+D;6
+B;0
+F;Pill, Injector, Ingestible fluid
+V;
+T;
+E;Over the course of 28 hours, the user grows an external, fully viable living organ or limb chosen by the user at the time of activation. This is a somewhat painful process that dazes the user for the last half of the process. The completely grown organ or limb can be transferred to another creature simply by placing it on their body and waiting a few rounds. If the recipient creature has sustained damage to the same kind of organ or limb, the newly grown one replaces it over the course of about a minute (during which time the recipient creature is stunned). Otherwise, the duplicate organ or limb withers and dies. Duplicate organs must be used within one week. All force-grown organs and limbs are sealed within a partially living, protective, translucent caul.
+}
+
+{Phasing Gloves
+D;6
+B;1
+F;Synth and metal gloves, Pair of bracelets
+V;
+T;
+E;Once activated, the user's hands can selectively phase through solid objects of level $ or below in a fashion that allows the wearer to see what they are touching, providing an asset for anyone attempting to repair a disabled object or structure. The user could also search behind walls and under floors. The phasing ability lasts for up to $ minutes, after which the user is harmlessly pushed out of whatever they may be phasing through. If used as part of a salvaging task, the cypher grant two assets.
+}
+
+{Psychic Defense Nodule
+D;6
+B;2
+F;Crystal attached to head, Headband
+V;
+T;
+E;For the next 28 hours, each time the wearer of the nodule is affected by an attack that attempts to sway their actions or beliefs or that inflicts Intellect damage, they instead go into stasis for one round and remain unaffected. While in stasis, they also lose their next turn. Attacks against a wearer in stasis are made as if the wearer were protected by an impenetrable force field of level $.
+}
+
+{Retriever
+D;6
+B;4
+F;Synth glove, Pearl-bearing ring, Clicker button, Snubnosed pistol-like device
+V;
+T;
+E;The cypher produces a nodule that can be attached to an item your size or smaller. When the cypher is activated, that item is teleported to the device as long as it is in the same dimension.
+}
+
+{Sustenance Implant
+D;6
+B;0
+F;Pill, Ingestible fluid, Injector, Belt
+V;
+T;28 hours:0, 2 days:2, 3 days:3, 4 days:4, 5 days:5, 6 days:6
+E;For ^, the wearer feels no ill effects from not eating or from overeating. They also gain an asset to any defense tasks made to withstand poison.
+}
+
+{Trail Blazer
+D;6
+B;0
+F;Single boot, Adhesive patch affixed to sole
+V;
+T;28 hours:0, 2 days:2, 3 days:3, 4 days:4, 5 days:5, 6 days:6
+E;For the next 28 hours, each time the cypher touches down on solid ground, it deposits a patch of nanites that mark the area with a glowing symbol. At any time before the duration expires, the wearer (and up to one other person that can be carried along) can use an action to instantly teleport back to any of these symbols. The teleportation effect brings the cypher's duration to an end.
+}
+
+{Transdimensional Sense
+D;6
+B;0
+F;Pill, Ingestible fluid, Eye injector, Goggles, Contact lenses, Device that adheres to nape of neck
+V;
+T;
+E;The user can see out-of-phase, invisible, and transdimensional creatures, objects, and sources of energy within long range for 28 hours. The effects of this cypher grant the user one free level of Effort on any attempt to understand or salvage numenera if they first use a level of Effort on that task.
+}
+
+{Travel Bubble
+D;6
+B;4
+F;Metallic disk, Crystal sphere
+V;
+T;28 hours:0, 2 days:2, 3 days:3, 4 days:4, 5 days:5, 6 days:6
+E;The user and any additional targets that can fit into a space an immediate distance in diameter are encapsulated in a spherical force field for up to ten hours or until the user collapses it. The sphere hovers at all times and moves as the user wishes vertically or horizontally up to a short distance each round. If the sphere is destroyed or collapsed, whatever it contains falls to the ground.
+}

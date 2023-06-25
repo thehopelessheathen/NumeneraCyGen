@@ -1,0 +1,98 @@
+1:Activated by the user humming in a specific manner
+1:Activated by the user whistling in a specific manner
+1:Activated by the user shouting in a specific manner
+1:Activated by the user grunting in a specific manner
+2:Activated by the user saying a specific word
+1:Can only be activated in complete darkness
+1:Can't be activated in bright light
+1:Can't be activated in direct sunlight
+1:Can only be activated in direct sunlight
+1:Can only be activated in bright light
+1:Can't be activated in complete darkness
+1:Can only be activated when the user is calm
+1:Can only be activated when the user is angry
+1:Can only be activated when the user is afraid
+1:Can only be activated in temperatures below 50 degrees F (10 C)
+1:Can only be activated in temperatures above 90 degrees F (32 C)
+1:Can only be activated in temperatures below 70 degrees F (21 C)
+1:Can only be activated in temperatures above 70 degrees F (21 C)
+1:Can only be activated in temperatures between 60 degrees F (16 C) and 80 degrees F (27 C)
+1:Only activates after being fed blood
+1:Only activates after being spat upon
+1:Only activates after being fed water
+1:Only activates after being fed dirt
+1:Only activates after being fed synth
+1:Perpetually reeks of sulfur
+1:Smells like petrol/gasoline
+1:Smells like disinfectant
+1:Causes the user to reek of absinthe when activated
+1:Causes the user to reek of shoddy perfume when activated
+1:Creates a puff of black smoke when activated
+1:Creates a plume of blue smog when activated
+1:Creates a puff of steam when activated
+1:Perpetually leaks black smoke
+1:Perpetually leaks green vapor
+1:Dribbles some oily substance when activated
+1:Dribbles some sticky substance when activated
+1:Is always coated in a strange oily substance
+1:Is always sticky to the touch no matter how much it's cleaned
+1:Makes strange clicking sounds when activated
+1:Produces strange humming sounds at all times
+1:Makes strange slurping sounds when activated
+1:Produces a loud bang when activated
+1:Produces a high-pitched screech when activated
+1:Produces a loud pop when activated
+1:Creates a bright flash when activated
+1:Flashes with multicolored lights when activated
+1:Creates a strobing flash when activated
+1:Produces a strange hologram just before activation
+1:Produces a strange hologram when activated
+1:Sends telepathic feelings of anger to the user when activated
+1:Telepathically calms the user when activated
+1:Periodically sends the user telepathic feelings of despair and panic like someone screaming for help
+2:Gives the user a static shock when activated
+2:Gives the user a strange crawling sensation when activated
+1:Electrocutes the user for 1 point of damage when activated
+1:Electrocutes the user for 2 points of damage when activated
+2:Gets annoyingly warm after being activated
+2:Expels warm steam toward the user when activated
+2:Expels black smoke toward the user when activated
+1:Burns the user for 2 points of damage when activated
+1:Blasts the user with scalding steam for 2 points of damage when activated
+2:Becomes cold to the touch and drains heat from its surroundings when activated
+2:Causes the user to feel pins and needles when activated
+1:Siphons heat from the user when activated, dealing 2 points of damage
+1:Interferes with the user's nervous system when activated, dealing 1 point of Speed damage
+1:Drains mental energy from the user when activated, dealing 2 points of Intellect damage
+1:Drains mental energy from the user when activated, dealing 1 point of Intellect damage
+1:Makes any animal that gets within Short range uneasy
+1:Makes any animal that gets within Immediate range uneasy
+1:Terrifies all animals in Short range when activated
+1:Terrifies all animals in Immediate range when activated
+1:Causes any animal that gets within Short range to relax
+1:Causes any animal that gets within Immediate range to relax
+1:Compels animals within Short range to move towards the user when activated
+1:Drives animals in Immediate range into a berserk panic
+1:Requires the user to roll [/r 1d6] each round after activation, only recharging on a 5 or 6
+1:Requires 1 minute to recharge after each activation
+1:Requires 1 hour to recharge after each activation
+1:Requires [/r 1d100] minutes to recharge after each activation
+1:Extended physical contact causes allergic rashes on the user's skin
+1:Extended physical contact causes blue scabs to grow on the user's skin
+1:Causes the user to develop lesions when activated
+1:Causes the user to develop tiny cuts when activated
+1:Causes the user's veins to turn a putrid green [/r 1d10] minutes after activation
+1:Causes user to develop small cystic growths [/r 1d10] minutes after activation
+1:Sickens the user, hindering all tasks they attempt over the next round
+1:Sickens the user, hindering all tasks they attempt for 1 minute
+1:Poisons the user, reducing their Might pool maximum by 1 point for 28 hours
+2:Frequently malfunctions (1 in [/r 1d6] chance per use), requiring 1 action for percussive maintenance
+2:Frequently breaks down (1 in [/r 1d6] chance per use), requiring 1 minute of repair time
+1:Must be recalibrated after each use, which takes 1 action
+1:Must be recalibrated after each use, which takes 1 minute
+1:Occasionally shifts position via teleportation when not directly observed
+1:Causes an unnatural sense of unease in everyone but the user when activated
+1:Forces intrusive thoughts upon the user via telepathy
+1:Makes irritating beeping noises when not held or paid attention to
+1:Endows the user with overconfidence after activation
+1:Takes over the user's mind upon activation, forcing them to stand still and speak gibberish
