@@ -391,7 +391,7 @@ B;2
 F;Pill, Ingestible liquid, Brain injector, Crystal embedded in forehead, Adhesive patch
 V;
 T;1 point :0, 2 points:5
-E;Increases the user's Intellect Edge by ^.
+E;Increases the user's Intellect Edge by ^ for 1 hour.
 }
 
 {Invisibility Nodule
@@ -535,7 +535,7 @@ B;2
 F;Complex nozzled device, Series of nodes placed on a surface, Beam-emitting device
 V;
 T;
-E;Puts a portion of a physical structure (like a wall or floor) out of phase for one hour. It affects an area equal to $ 5-foot (1.5 m) cubes per cypher level. While the area is out of phase, creatures and objects can pass freely through it as if it were not there, although one cannot see through it, and it blocks light.
+E;Puts a portion of a physical structure (like a wall or floor) out of phase for one hour. It affects an area equal to $ 5-foot (1.5 m) cubes. While the area is out of phase, creatures and objects can pass freely through it as if it were not there, although one cannot see through it, and it blocks light.
 }
 
 {Emotion Poison
