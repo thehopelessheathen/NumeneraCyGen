@@ -16,7 +16,7 @@ F;Amulet that adheres to the sternum
 V;
 T;
 DT;1
-DD;100
+DD;20
 E;This artifact repairs injury by accelerating the wearer's metabolism, healing life-threatening injuries in seconds while aging the wearer years in the same time span. Whenever the wearer moves a step down the damage track, the device activates, moving them back up the track and making them 1 year older. If they moved down the damage track due to having a stat pool reduced to 0, that pool regains 1d10 + 5 points, and the user ages an additional year for every 3 points restored (rounding down). Once a user reaches a sufficiently old age, the amulet begins to interpret the effects of old age as injury, leading to a chain reaction that ages the user to dust. During each round of the chain reaction, each of the user's pools are permanently reduced by 1d10 until they remove the amulet as an action or die. The age at which this happens is different for every user, but for humans it typically equals [/r 70 + 1d10] + the user's level or tier.
 }
 

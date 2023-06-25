@@ -292,7 +292,7 @@ V;
 T;1d6:0, 1d6+2:5
 DT;1
 DD;10
-E;The weapon's business end is a Ninth World-forged addition to the numenera hilt (which likely was not a sword hilt originally). When squeezed properly, the hilt injects a healing substance into the wielder's body, restoring [/r ^] points of any stat Pool they wish. If the wielder is using the weapon in battle, using the healing function does not require an action.
+E;The weapon's business end is a Ninth World-forged addition to the numenera hilt (which likely was not a weapon hilt originally). When squeezed properly, the hilt injects a healing substance into the wielder's body, restoring [/r ^] points of any stat Pool they wish. If the wielder is using the weapon in battle, using the healing function does not require an action.
 }
 
 {Hoop Staff
@@ -475,11 +475,11 @@ E;When activated, the weapon's business end exists on many levels of reality at 
 D;6
 B;3
 F;3-foot (1 m) tall collapsible metal tripod with a large metal globe at the top. The globe has a number of holes in it but is not hollow.
-V;
+V;metal slug:5, crystal shard:4, bolt of lightning:2, beam of burning light:3, beam of force:2, spurt of acid:2
 T;
 DT;1
 DD;0
-E;It takes two rounds to assemble and set up this device, and then it requires an action to activate. When activated, this device does nothing for five rounds. After that, if anything larger than a mouse comes within long range of it, the globe fires a powerful projectile at that target that inflicts $ points of damage. The device can attack up to ten times per round, but it never attacks the same target more than once per round. It remains on watch for 28 hours or until it has made one hundred attacks, whichever comes first.
+E;It takes two rounds to assemble and set up this device, and then it requires an action to activate. When activated, this device does nothing for five rounds. After that, if anything larger than a mouse comes within long range of it, the globe fires a @ at that target that inflicts $ points of damage. The device can attack up to ten times per round, but it never attacks the same target more than once per round. It remains on watch for 28 hours or until it has made one hundred attacks, whichever comes first.
 }
 
 {Nano Needler
@@ -490,7 +490,7 @@ V;
 T;Long range:0, Very Long Range:5
 DT;1
 DD;10
-E;This device projects a single needle—far smaller in width than a human hair—up to ^. The needle inflicts no damage, but it can carry poison or disease, and the injection is so tiny that the victim doesn't feel it. The needle can also penetrate (ignore) up to 4 Armor. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+E;This device projects a single needle-far smaller in width than a human hair-up to ^. The needle inflicts no damage, but it can carry poison or disease, and the injection is so tiny that the victim doesn't feel it. The needle can also penetrate (ignore) up to 4 Armor. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
 }
 
 {Needler
@@ -777,7 +777,7 @@ V;
 T;can't discriminate based on the triggering entity's characteristics:0, can also be set for an entity of specific size or weight:4, can also be set for an entity of specific size and/or species:5, can also be set for an entity of specific size and/or species or even a specific individual:6
 DT;1
 DD;0
-E;A cypher of virtually any kind can be added to this trigger device to turn it into a trap. First, the cypher is added to the device (an Intellect task with a difficulty of 4), and then various wires and plates are affixed permanently to something-a nearby surface, door, hinge, and so on. When the trap is triggered, the cypher is activated, so people often use straightforward cyphers such as a detonation, a ray emitter, or a similar device. The trigger can react to a specified movement within 3 feet (1 m)—a door opening, a creature or object moving past the artifact, and so on. The trigger ^.
+E;A cypher of virtually any kind can be added to this trigger device to turn it into a trap. First, the cypher is added to the device (an Intellect task with a difficulty of 4), and then various wires and plates are affixed permanently to something-a nearby surface, door, hinge, and so on. When the trap is triggered, the cypher is activated, so people often use straightforward cyphers such as a detonation, a ray emitter, or a similar device. The trigger can react to a specified movement within 3 feet (1 m)-a door opening, a creature or object moving past the artifact, and so on. The trigger ^.
 }
 
 {Vuechi
