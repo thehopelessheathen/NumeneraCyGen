@@ -39,7 +39,7 @@ V;
 T;3:0, 5:6
 DT;1
 DD;20
-E;This artifact functions as a normal weapon. However, if the wielder uses an action to activate it, the weapon vibrates at sufficient frequency to disrupt molecular bonds for one round. During that round, the weapon ignores ^ points of armor.
+E;This artifact functions as a normal weapon. However, if the wielder uses an action to activate it, the weapon vibrates at sufficient frequency to disrupt molecular bonds for one minute. During that minute, the weapon ignores ^ points of armor.
 }
 
 {Phase Pocket
@@ -314,7 +314,7 @@ V;
 T;
 DT;1
 DD;20
-E;This device manipulates probability in its user's favor, "stealing" the luck of their foes to bring them good fortune. Anytime the user rolls a die while wearing the device, they instead roll two dice and take the better result. Each influenced roll counts as an activation, though a savvy user can avoid wasting the device's power by stowing it in a pocket or pack out of sight.
+E;This device manipulates probability in its user's favor, "stealing" the luck of their foes to bring them good fortune. Anytime the user rolls a die while wearing the device, they instead roll two dice and take the better result. Each influenced roll counts as an activation, though a savvy user can avoid wasting the device's power by stowing it in a pocket or pack out of sight. The device can affect other artifacts' depletion rolls, but not its own.
 }
 
 {Cyber-Limb
@@ -337,4 +337,15 @@ T;4:0, 6:8
 DT;1
 DD;20
 E;When activated, a watery liquid sprays from one end of the cylinder. An electric field shapes this smart fluid, causing it to take the form of a hammer, pair of pliers, prybar, wrench, lockpick, or any other hand tool the user desires. The fluid becomes immediately rigid and flawlessly formed, granting an asset on any task it is used in. The tool lasts for ^ hours or until deactivated.
+}
+
+{Quantic Blade
+D;6
+B;3
+F;Circuit-inlaid sword, Circuit-inlaid axe, Circuit-inlaid cleaver
+V;
+T;3:0, 5:6
+DT;1
+DD;10
+E;This artifact functions as a normal weapon. However, the wielder can activate it before or after making an attack with it, causing the blade to momentarily exist in two places at once. If activated before an attack, that attack can effect two targets within immediate distance of each other, with the user applying the same roll to both targets. If activated after an attack, the user may immediately re-roll the attack, potentially turning a miss into a hit.
 }

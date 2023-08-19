@@ -46,7 +46,7 @@ E;Covers a human-sized creature or object and refracts light around it for $0 mi
 {Rejuvenator
 D;6
 B;2
-F;Pill, Ingestible fluid, Injector, Bracer with built-in injector,
+F;Pill, Ingestible fluid, Injector, Bracer with built-in injector
 V;Might:2, Speed:1, Intellect:1
 T;
 E;Restores $ points to the user's @ pool.
@@ -55,7 +55,7 @@ E;Restores $ points to the user's @ pool.
 {Two-Step Rejuvenator
 D;6
 B;0
-F;Pill, Ingestible fluid, Injector, Bracer with built-in injector,
+F;Pill, Ingestible fluid, Injector, Bracer with built-in injector
 V;Might:2, Speed:1, Intellect:1
 T;
 E;Restores $ points to the user's @ pool on the round it is used, and $ more points on the round afterward.
@@ -64,8 +64,17 @@ E;Restores $ points to the user's @ pool on the round it is used, and $ more poi
 {Slow Rejuvenator
 D;6
 B;1
-F;Pill, Ingestible fluid, Injector, Bracer with built-in injector,
+F;Pill, Ingestible fluid, Injector, Bracer with built-in injector
 V;Might:2, Speed:1, Intellect:1
 T;
 E;Restores 2 points to the user's @ pool every minute for $ minutes.
+}
+
+{Deathstick
+D;6
+B;3
+F;Baton-shaped device, Bracer with extending prod
+V;an automaton:3, a creature with a nervous system:2, an inorganic creature:1
+T;
+E;Delivers a disruptive pulse when activated and touched by @, dealing 10 points of damage. Player characters that take this damage move one step down the damage track if they fail a Might defense roll.
 }
