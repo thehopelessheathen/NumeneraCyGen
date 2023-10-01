@@ -255,11 +255,11 @@ E;This device psychically assaults the mind of a living creature within Long ran
 D;6
 B;2
 F;Long device with a metal tube
-V;
+V;metallic:1, crystalline:1, bone-like:1
 T;Short:0, Long:7
 DT;2
 DD;100
-E;With a quiet sound like a puff of air, this device fires a crystalline shard up to ^ range. The shard inflicts $ points of damage and evaporates shortly after impact. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
+E;With a quiet sound like a puff of air, this device fires a @ shard up to ^ range. The shard inflicts $ points of damage and evaporates shortly after impact. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
 }
 
 {Stun Rod
@@ -313,7 +313,7 @@ F;Amulet, Bracelet, Talisman
 V;
 T;
 DT;1
-DD;20
+DD;10
 E;This device manipulates probability in its user's favor, "stealing" the luck of their foes to bring them good fortune. Anytime the user rolls a die while wearing the device, they instead roll two dice and take the better result. Each influenced roll counts as an activation, though a savvy user can avoid wasting the device's power by stowing it in a pocket or pack out of sight. The device can affect other artifacts' depletion rolls, but not its own.
 }
 

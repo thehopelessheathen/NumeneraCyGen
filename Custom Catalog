@@ -76,5 +76,14 @@ B;3
 F;Baton-shaped device, Bracer with extending prod
 V;an automaton:3, a creature with a nervous system:2, an inorganic creature:1
 T;
-E;Delivers a disruptive pulse when activated and touched by @, dealing 10 points of damage. Player characters that take this damage move one step down the damage track if they fail a Might defense roll.
+E;Delivers a disruptive pulse when activated and touched by @, dealing 10 points of damage that ignore armor. Player characters that take this damage move one step down the damage track if they fail a Might defense roll.
+}
+
+{Nanoclay
+D;6
+B;1
+F;Lump of greyish metallic matter
+V;
+T;2 cups (0.5 l):0, 3 cups (0.7 l), 4 cups (1 l), 5 cups (1.2 l), 6 cups (1.4 l), 7 cups (1.6 l)
+E;Takes on the physical properties (but not the shape) of any relatively inert substance it is touched against, maintaining a volume of ^ regardless of the substance's density. The cypher can be molded into different shapes or even split apart, but all divided pieces activate in the same manner at the same time.
 }
